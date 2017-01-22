@@ -1,0 +1,3254 @@
+[
+  {
+    "name": "Fort Glanville Conservation Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Adelaide/Fort_Glanville_Conservation_Park",
+    "description": "Fort Glanville Conservation Park represents a significant period in South Australia's European colonial history. The fort was built in 1880 and has remained largely unaltered. The fort can be hired for a variety of uses including concerts and community activities. The parade ground and visitor centre (which has kitchen facilities) are also available for hire. On the third Sunday afternoon of every month, between September and May, witness the spectacle of a full historical re-enactment by Fort Glanville Association members. In full military costume they recreate the past with military drill demonstrations, including cannon firing.",
+    "location": {
+      "description": "Fort Glanville Conservation Park is located 12km north west of Adelaide. Access is via Military Road. Public transport to this park from Adelaide CBD is available. ",
+      "latitude": -34.851804,
+      "longitude": 138.478072
+    },
+    "openingHours": "Every third Sunday of the month, from 1pm to 5pm between September and May.",
+    "nrmRegion": [
+      "Adelaide and Mt Lofty Ranges"
+    ],
+    "satcRegion": [
+      "Adelaide"
+    ],
+    "fireBanDistrict": [
+      "Adelaide Metropolitan"
+    ],
+    "facilities": [
+      "Toilets",
+      "Guided Tours",
+      "Public Transport"
+    ],
+    "experiences": []
+  },
+  {
+    "name": "Hallett Cove Conservation Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Adelaide/Hallett_Cove_Conservation_Park",
+    "description": "Hallett Cove Conservation Park is one of Australia&#39;s most outstanding geological and archaeological sites. Come and discover where more than 1,700 Aboriginal artefacts have been found. The park&#39;s beach is ideal for swimming and fishing. An interpretative walking trail describes the park&#39;s cultural and geological heritage, including evidence of an Australian ice age some 280 million years ago. The outstanding glacial pavements along the northern cliff tops are recognised as the best record of Permian glaciation in Australia and have international significance.",
+    "location": {
+      "description": "Hallett Cove Conservation Park is located 22km south of Adelaide. Access to the park by public transport is available."
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week.",
+    "nrmRegion": [
+      "Adelaide and Mt Lofty Ranges"
+    ],
+    "satcRegion": [
+      "Adelaide"
+    ],
+    "fireBanDistrict": [
+      "Adelaide Metropolitan"
+    ],
+    "facilities": [
+      "Kiosk",
+      "Public Transport"
+    ],
+    "experiences": [
+      "Swimming",
+      "Scuba / Snorkelling",
+      "Walking Trails"
+    ]
+  },
+  {
+    "name": "Marino Conservation Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Adelaide/Marino_Conservation_Park",
+    "description": "Marino Conservation Park was once a traditional resting and fishing place of the Kaurna Aboriginal people. However by the early 20th century much of the area had been cleared and grazed. Marino conserves the last remaining stands of coastal heath vegetation along this part of the coast, forming a green buffer between the suburbs. Various walking trails and fire access tracks allow you to explore the park, including its open recreational areas and scenic views of the coastline. The park features a self-guided botanical trail starting from the car park. There are also designated dog walking trails, but dogs must remain under your control on a lead at all times.",
+    "location": {
+      "description": "Marino Conservation Park is located 18km south of Adelaide. There are three pedestrian access points. Car parking is available on Nimboya Road at Marino.",
+      "latitude": -35.053867,
+      "longitude": 138.511428
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week.",
+    "nrmRegion": [
+      "Adelaide and Mt Lofty Ranges"
+    ],
+    "satcRegion": [
+      "Adelaide"
+    ],
+    "fireBanDistrict": [
+      "Adelaide Metropolitan"
+    ],
+    "facilities": [],
+    "experiences": [
+      "Dogs on Lead",
+      "Walking Trails"
+    ]
+  },
+  {
+    "name": "O&#39;Halloran Hill Recreation Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Adelaide/OHalloran_Hill_Recreation_Park",
+    "description": "O&#39;Halloran Hill Recreation Park can be explored via its network of walking trails, horse riding trails and fire tracks. You can walk your dog in this park provided it remains under your control on a lead. You can also cycle your way through the park on the bicycle veloway, a 7 kilometre sealed bike track running alongside the South Expressway. This southern suburbs park was once cleared, and for more than 90 years the area was used for grazing. Today, the shade from the regenerated grey box eucalypts and river red gums provides the perfect spot for a picnic. The bluestone quarry in the park is also still visible today.",
+    "location": {
+      "description": "O&#39;Halloran Hill Recreation Park is located 16km south of Adelaide. Access is via Majors Road at Seaview Downs. Pedestrian access points are situated along Davenport Street, Ridgefield Avenue, Greenfield Road and Fowler Street. The park is also accessible via the bicycle veloway on either side of the Southern Expressway.",
+      "latitude": -35.046722,
+      "longitude": 138.545923
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week.",
+    "nrmRegion": [
+      "Adelaide and Mt Lofty Ranges"
+    ],
+    "satcRegion": [
+      "Adelaide"
+    ],
+    "fireBanDistrict": [
+      "Adelaide Metropolitan"
+    ],
+    "facilities": [],
+    "experiences": [
+      "Dogs on Lead",
+      "Horse Riding",
+      "Walking Trails",
+      "Cycling"
+    ]
+  },
+  {
+    "name": "Belair National Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Adelaide_Hills/Belair_National_Park",
+    "description": "Belair National Park, set within beautiful natural bushland, features numerous picnic areas, tennis courts and an array of walking trails which have recently been upgraded with significant improvements. The park, first to be dedicated in South Australia, is home to some of the Adelaide Hills significant heritage attractions, including Old Government House and the State Flora Nursery. You can walk your dog in this park providing it remains under your control on a lead. Belair also remains one of the few relatively undisturbed areas of native vegetation in the Mount Lofty Ranges and is regarded as one of Australia&#39;s 15 biodiversity hotspots, making it an important refuge for native animals.",
+    "location": {
+      "description": "Belair National Park is located 13km south east of Adelaide. Access is via Upper Sturt Road, Belair. Public transport to this park from Adelaide CBD is available.",
+      "latitude": -35.019131,
+      "longitude": 138.656398
+    },
+    "openingHours": "8am to sunset all year round, except Christmas Day where the park is closed. The park information office is open from 8.30am-4.30pm Monday to Friday and 9am-4.30pm on weekends and public holidays. Old Government House buildings are open from 1pm-4pm on Sunday and public holidays only. For more on Old Government house see http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Adelaide_Hills/Belair_National_Park/Attractions. The State Flora Nursery in Belair National Park is open from 9am-5pm on weekdays and 10am-5pm on weekends and public holidays. The nursery is closed Good Friday, Christmas Day and New Year&#39;s Day. For more on State Flora see http://www.environment.sa.gov.au/our-places/State_Flora",
+    "nrmRegion": [
+      "Adelaide and Mt Lofty Ranges"
+    ],
+    "satcRegion": [
+      "Adelaide Hills"
+    ],
+    "fireBanDistrict": [
+      "Mount Lofty Ranges"
+    ],
+    "facilities": [
+      "Information Office",
+      "Picnic Areas",
+      "BBQ Facilities",
+      "Toilets",
+      "Public Transport",
+      "Disabled Toilets"
+    ],
+    "experiences": [
+      "Dogs on Lead",
+      "Horse Riding",
+      "Walking Trails",
+      "Cycling"
+    ]
+  },
+  {
+    "name": "Black Hill Conservation Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Adelaide_Hills/Black_Hill_Conservation_Park",
+    "description": "Black Hill Conservation Park covers an area of 684 hectares and features the low sheoaks which give Black Hill its name. The foliage of the sheoaks gradually matures to a dark rusty, almost black colour, as summer progresses. As you look from the Adelaide Plains, the hills appear to be black in colour. The park’s spectacular scenery of rugged ridges along an extensive network of walking trails and a wide variety of flora, offers a stunning display of native flowers in the spring including many delicate and colourful orchid species. While you&#39;re visiting the park, take a walk through the landscaped Wildflower Garden that dates back to the late 1940s.",
+    "location": {
+      "description": "Black Hill Conservation Park is located 10km north east of Adelaide. Access is via Addison Avenue, Montacute Road and Maryvale Road. Public transport to this park from Adelaide CBD is available.",
+      "latitude": -34.88354,
+      "longitude": 138.718632
+    },
+    "openingHours": "The park is open to vehicles from 8.30am-4.30pm weekdays. Walkers can access the park from sunrise to sunset. The park office is closed weekends and public holidays.",
+    "nrmRegion": [
+      "Adelaide and Mt Lofty Ranges"
+    ],
+    "satcRegion": [
+      "Adelaide Hills"
+    ],
+    "fireBanDistrict": [
+      "Mount Lofty Ranges"
+    ],
+    "facilities": [
+      "Information Office",
+      "Toilets",
+      "Public Transport"
+    ],
+    "experiences": [
+      "Walking Trails"
+    ]
+  },
+  {
+    "name": "Brownhill Creek Recreation Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Adelaide_Hills/Brownhill_Creek_Recreation_Park",
+    "description": "Brownhill Creek Recreation Park is only 8km from Adelaide and features a horse trail and fenced horse exercise area. You can walk your dog in this park providing it remains under your control on a lead. The park&#39;s narrow creek, flowing through a steep sided valley with majestic river red gums, was once a favourite camping, hunting and gathering ground for the Kaurna Aboriginal people. The area was also known for its agriculture, market gardening and quarrying industries. Concrete pits were used for storage and stone quarries provided sandstone and slate for buildings. Remnants of these pits and a colonial keystone arch bridge can be found in the recreation park.",
+    "location": {
+      "description": "Brownhill Creek Recreation Park is located 8km from Adelaide. Access is via Brownhill Creek Road by vehicle or on foot from Northbrook Avenue.",
+      "latitude": -34.988695,
+      "longitude": 138.628321
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week.",
+    "nrmRegion": [
+      "Adelaide and Mt Lofty Ranges"
+    ],
+    "satcRegion": [
+      "Adelaide Hills"
+    ],
+    "fireBanDistrict": [
+      "Mount Lofty Ranges"
+    ],
+    "facilities": [
+      "Picnic Areas"
+    ],
+    "experiences": [
+      "Dogs on Lead",
+      "Horse Riding",
+      "Walking Trails",
+      "Cycling"
+    ]
+  },
+  {
+    "name": "Cleland Conservation Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Adelaide_Hills/Cleland_Conservation_Park",
+    "description": "Cleland Conservation Park conserves a vital area of bushland in the Adelaide Hills. The park features the internationally popular Cleland Wildlife Park, Mt Lofty Summit and the scenic Waterfall Gully. A fantastic network of walking trails introduce you to the diverse native wildlife, cultural heritage and spectacular views of the Adelaide Hills and surrounds. The flora on the higher slopes is predominantly stringybark forest with a complex understorey of small trees and shrubs. The lower woodlands on the northern side of the park contain significant stands of blue gums and manna gum which give way to open grasslands.",
+    "location": {
+      "description": "Cleland Conservation Park is located 22km south east of Adelaide. Access is via Mount Lofty Summit Road and Waterfall Gully Road. Public transport to this park from Adelaide CBD is available.",
+      "latitude": -34.968488,
+      "longitude": 138.69366
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week.",
+    "nrmRegion": [
+      "Adelaide and Mt Lofty Ranges"
+    ],
+    "satcRegion": [
+      "Adelaide Hills"
+    ],
+    "fireBanDistrict": [
+      "Mount Lofty Ranges"
+    ],
+    "facilities": [
+      "Picnic Areas",
+      "Kiosk",
+      "BBQ Facilities",
+      "Toilets",
+      "Public Transport",
+      "Disabled Toilets"
+    ],
+    "experiences": [
+      "Walking Trails",
+      "Cycling"
+    ]
+  },
+  {
+    "name": "Ferguson Conservation Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Adelaide_Hills/Ferguson_Conservation_Park",
+    "description": "Ferguson Conservation Park offers its visitors a rare glimpse of what the eastern Adelaide Plains looked like prior to European settlement. This small area of natural bushland, set in the heart of suburbia, features a number of walking trails with interpretive signs so you can take a self-guided tour through the park. When walking among the remnant blue gum and native pine woodland habitat be sure to look out for the park&#39;s diverse wildlife. A visit during spring is the best time to see the native plants in flower, while December shows off the colourful red fruits on the Hop bushes and masses of white flowers on the Christmas bushes.",
+    "location": {
+      "description": "Ferguson Conservation Park is located 6.5km east of Adelaide. Access is via Hallett Road, Stonyfell. Walking trails can also be accessed from Stonyfell Road and Marble Terrace.",
+      "latitude": -34.930576,
+      "longitude": 138.671867
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week.",
+    "nrmRegion": [
+      "Adelaide and Mt Lofty Ranges"
+    ],
+    "satcRegion": [
+      "Adelaide Hills"
+    ],
+    "fireBanDistrict": [
+      "Adelaide Metropolitan"
+    ],
+    "facilities": [
+      "Public Transport"
+    ],
+    "experiences": [
+      "Walking Trails"
+    ]
+  },
+  {
+    "name": "Hale Conservation Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Barossa/Hale_Conservation_Park",
+    "description": "Hale Conservation Park is a tranquil setting characterised by its diverse landscape and steep rocky ridges. The park is home to some of Australia&#39;s more secretive mammals and conserves the Oyster Bay cypress pine. For a few weeks in winter, the glorious flame heath flowers across much of the park with its red blooms providing impressive photographic opportunities. Challenging walking trails provide spectacular views of the South Para Valley and reservoir. The trail to the South Para River passes from the highlands to the river crossing while the trail to the north eastern boundary of the park follows the creek line to emerge in grasslands on the outskirts of Williamstown.",
+    "location": {
+      "description": "Hale Conservation Park is located 60km north east of Adelaide. Access is via Mt Pleasant Road."
+    },
+    "openingHours": "The park is open from sunrise to sunset every day.",
+    "nrmRegion": [
+      "Adelaide and Mt Lofty Ranges"
+    ],
+    "satcRegion": [
+      "Barossa"
+    ],
+    "fireBanDistrict": [
+      "Mount Lofty Ranges"
+    ],
+    "facilities": [],
+    "experiences": [
+      "Walking Trails"
+    ]
+  },
+  {
+    "name": "Horsnell Gully and Giles Conservation Parks",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Adelaide_Hills/Horsnell_Gully_and_Giles",
+    "description": "Horsnell Gully and Giles Conservation Parks feature deep mine shafts and offers excellent views over the quarry. Take a bushwalk through steep gullies in the picturesque Adelaide Hills to discover the history of these parks. Named after the state Governor&#39;s coachmen, John Horsnell, relics and reminders of the Horsnell family property still remain. Along the signposted walking trails you will find the remains of a large homestead, including the coaching sheds, stable and cowsheds. The original garden of the Horsnell property is located at the start of the walking trail, marked by elm trees, plum trees and orange trees.",
+    "location": {
+      "description": "Horsnell Gully and Giles Conservation Parks are located 10km east of Adelaide. Access is via Horsnell Gully Road."
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week.",
+    "nrmRegion": [
+      "Adelaide and Mt Lofty Ranges"
+    ],
+    "satcRegion": [
+      "Adelaide Hills"
+    ],
+    "fireBanDistrict": [
+      "Mount Lofty Ranges"
+    ],
+    "facilities": [
+      "Picnic Areas"
+    ],
+    "experiences": [
+      "Walking Trails",
+      "Bird Watching"
+    ]
+  },
+  {
+    "name": "Mark Oliphant Conservation Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Adelaide_Hills/Mark_Oliphant_Conservation_Park",
+    "description": "Mark Oliphant Conservation Park was renamed in honour of former state Governor Sir Mark Oliphant&#39;s contribution to conservation, and provides plenty of bushwalking opportunities to enjoy the forest landscape. Tall forest trees, spring wildflowers and relaxing bush sounds make the park an ideal walking environment catering for all levels of fitness. Look out for the native birds that are commonly seen in the area, including the scarlet robin, golden whistler and the Adelaide rosellas.",
+    "location": {
+      "description": "Mark Oliphant Conservation Park is located 22km south east from Adelaide. Access is via South-Eastern Freeway.",
+      "latitude": -35.034951,
+      "longitude": 138.703836
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week.",
+    "nrmRegion": [
+      "Adelaide and Mt Lofty Ranges"
+    ],
+    "satcRegion": [
+      "Adelaide Hills"
+    ],
+    "fireBanDistrict": [
+      "Mount Lofty Ranges"
+    ],
+    "facilities": [],
+    "experiences": [
+      "Walking Trails"
+    ]
+  },
+  {
+    "name": "Montacute Conservation Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Adelaide_Hills/Montacute_Conservation_Park",
+    "description": "Montacute Conservation Park, set in 200 hectares of remnant bushland and rugged hill country, is separated by several small creeks and is home to an abundant array of birdlife. The creek line is dominated by river red gums with a low understorey of grasses and exotic plants. The higher slopes support stringybarks and blue gums. Two challenging walking trails wind their way through the park&#39;s native vegetation to the higher slopes and offer excellent views of the surrounding area. Along the walking trails you may discover outcrops of Precambrian dolomite rocks more than 570 million years old, or on the eastern side of the park, an outcrop of Stonyfell quartzite.",
+    "location": {
+      "description": "Montacute Conservation Park is located 17km north east of Adelaide. Access is via Valley Road.",
+      "latitude": -34.882587,
+      "longitude": 138.786807
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week.",
+    "nrmRegion": [
+      "Adelaide and Mt Lofty Ranges"
+    ],
+    "satcRegion": [
+      "Adelaide Hills"
+    ],
+    "fireBanDistrict": [
+      "Mount Lofty Ranges"
+    ],
+    "facilities": [],
+    "experiences": [
+      "Walking Trails"
+    ]
+  },
+  {
+    "name": "Morialta Conservation Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Adelaide_Hills/Morialta_Conservation_Park",
+    "description": "Morialta Conservation Park is known for its rugged ridges, gully scenery and seasonal waterfalls. The views provide opportunities to admire Morialta Gorge and the nearby Adelaide plains. You can walk your dog from the picnic area, along Morialta Falls Road to the car park, provided it remains under your control on a lead. The three waterfalls along Fourth Creek are popular features of the park and are linked by an extensive network of walking trails. The first two falls are the grandest, each cascading over sheer quartzite cliffs after rain. To see the falls at their best, visit the park during spring or winter when the water flow is strongest.",
+    "location": {
+      "description": "Morialta Conservation Park is located 10km north east of Adelaide. A car park is situated at the start of the walking trails. Alternatively, park your vehicle at the Morialta Road entrance, Woodforde and walk 800 metres to the Morialta Falls car park precinct. Public transport to this park from Adelaide CBD is available.",
+      "latitude": -34.903269,
+      "longitude": 138.710674
+    },
+    "openingHours": "The park is open to vehicle traffic from 8.30am to 15 minutes before sunset. Gates are closed on Christmas Day. Walkers can access the park from sunrise to sunset.",
+    "nrmRegion": [
+      "Adelaide and Mt Lofty Ranges"
+    ],
+    "satcRegion": [
+      "Adelaide Hills"
+    ],
+    "fireBanDistrict": [
+      "Mount Lofty Ranges"
+    ],
+    "facilities": [
+      "Picnic Areas",
+      "BBQ Facilities",
+      "Toilets",
+      "Public Transport",
+      "Disabled Toilets"
+    ],
+    "experiences": [
+      "Rock Climbing",
+      "Walking Trails"
+    ]
+  },
+  {
+    "name": "Mount George Conservation Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Adelaide_Hills/Mount_George_Conservation_Park",
+    "description": "Mount George Conservation Park&#39;s landscape ranges from wetlands to open forests with rocky outcrops. Wedge-tailed eagles, blue wrens, red-browed finches, white-throated treecreepers and scarlet robins are often observed here. You can also walk your dog in this park, between Mount George Road and Cox Creek, providing that it remains under your control on a lead. The area was once part of the tribal land of the Peramangk Aboriginal people and by the 1840s much of the surrounding area was cleared and farmed. Today, Mount George Conservation Park features a great variety of vegetation and spring flowers. You will find pea flowers, ground-hugging correas and a variety of delightful native orchids.",
+    "location": {
+      "description": "Mount George Conservation Park is located 25km south east of Adelaide. Access is via Mount George Road, Bridgewater.",
+      "latitude": -34.99599,
+      "longitude": 138.74784
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week.",
+    "nrmRegion": [
+      "Adelaide and Mt Lofty Ranges"
+    ],
+    "satcRegion": [
+      "Adelaide Hills"
+    ],
+    "fireBanDistrict": [
+      "Mount Lofty Ranges"
+    ],
+    "facilities": [
+      "Picnic Areas"
+    ],
+    "experiences": [
+      "Dogs on Lead",
+      "Walking Trails"
+    ]
+  },
+  {
+    "name": "Mount Lofty Summit",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Adelaide_Hills/Mount_Lofty_Summit",
+    "description": "Mount Lofty Summit, just 20 minutes from Adelaide, rises more than 710 metres above sea level providing spectacular panoramic views across the city skyline to the coast. Each year more than 350,000 people visit the highest peak of the Mount Lofty Ranges in the Adelaide Hills. The complex features an accredited visitor information centre with interactive touch screens, a gift shop full of Australian made items as well as a variety of locally handcrafted gifts and the fully licensed Summit Restaurant and Caf&#233;. From here, follow the popular walk down to Waterfall Gully, join the Heysen Trail or stroll along a walking trail through native bushland to Cleland Wildlife Park.",
+    "location": {
+      "description": "Mount Lofty Summit is 15km east of Adelaide. Public transport to this park from Adelaide CBD is available. Parking is available (fees apply).",
+      "latitude": -34.976494,
+      "longitude": 138.709517
+    },
+    "openingHours": "The Mount Lofty Summit Visitor Information Centre is open 9am-5pm daily (closed Christmas Day). The Summit Restaurant and Caf&#233; are open from 9am Monday to Tuesday for breakfast and lunch and 9am to late Wednesday to Sunday for breakfast, lunch and dinner. Booking are essential.",
+    "nrmRegion": [
+      "Adelaide and Mt Lofty Ranges"
+    ],
+    "satcRegion": [
+      "Adelaide Hills"
+    ],
+    "fireBanDistrict": [
+      "Mount Lofty Ranges"
+    ],
+    "facilities": [
+      "Information Office",
+      "Kiosk",
+      "Toilets",
+      "Public Transport",
+      "Disabled Toilets"
+    ],
+    "experiences": [
+      "Walking Trails"
+    ]
+  },
+  {
+    "name": "Para Wirra Recreation Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Adelaide_Hills/Para_Wirra_Recreation_Park",
+    "description": "Para Wirra Recreation Park offers a beautiful bushland setting with many recreational facilities in which to enjoy the park&#39;s wildlife. This family friendly park has a sports oval that is ideal for a game of cricket on a lazy afternoon. You can walk your dog in this park providing it remains under your control on a lead. Bushwalking along the many trails throughout the park is a popular activity where western grey kangaroos can be frequently seen at dawn and dusk. Watching emus strut through the picnic grounds is a common sight, especially around lunchtime.",
+    "location": {
+      "description": "Para Wirra Recreation Park is located 40km north east of Adelaide. Access is via Humbug Scrub Road, One Tree Hill.",
+      "latitude": -34.673312,
+      "longitude": 138.829765
+    },
+    "openingHours": "Open every day from 8am to sunset (except Christmas Day).",
+    "nrmRegion": [
+      "Adelaide and Mt Lofty Ranges"
+    ],
+    "satcRegion": [
+      "Adelaide Hills"
+    ],
+    "fireBanDistrict": [
+      "Mount Lofty Ranges"
+    ],
+    "facilities": [
+      "Picnic Areas",
+      "BBQ Facilities",
+      "Toilets",
+      "Disabled Toilets"
+    ],
+    "experiences": [
+      "Dogs on Lead",
+      "Walking Trails",
+      "Bird Watching"
+    ]
+  },
+  {
+    "name": "Scott Creek Conservation Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Adelaide_Hills/Scott_Creek_Conservation_Park",
+    "description": "Scott Creek Conservation Park’s old silver mine ruins are located among some of the most diverse native vegetation and wildlife in the Adelaide Hills. The park is an important link in the vegetation corridors of the hills and was once part of a major travelling route for the Peramangk Aboriginal people. From the 1850s the area was mined for both copper and silver. By the time production stopped in 1887 due to economic reasons, the mine had produced 310 kilograms of silver. Discover remnants of the mine ruins including an engine house, stone chimney, the mine office, a dairy and explore several mining shafts along the park&#39;s interpretive walking trails.",
+    "location": {
+      "description": "Scott Creek Conservation Park is located 30km south of Adelaide. Access is via Dorset Vale Road or Scott Creek Road, Scott Creek.",
+      "latitude": -35.08562,
+      "longitude": 138.694876
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week.",
+    "nrmRegion": [
+      "Adelaide and Mt Lofty Ranges"
+    ],
+    "satcRegion": [
+      "Adelaide Hills"
+    ],
+    "fireBanDistrict": [
+      "Mount Lofty Ranges"
+    ],
+    "facilities": [
+      "Picnic Areas"
+    ],
+    "experiences": [
+      "Walking Trails"
+    ]
+  },
+  {
+    "name": "Shepherds Hill Recreation Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Adelaide/Shepherds_Hill_Recreation_Park",
+    "description": "Shepherds Hill Recreation Park offers 360 degree views of the surrounding Adelaide plains, coastline and hills. Features include an old railway tunnel, the remains of a viaduct, a bicycle jumps track, pony club and an archery range located in the park. You can also walk your dog in this park provided it remains under your control on a lead. The park supports a variety of native wildlife habitats, although past land use such as grazing and cropping has had an impact on its diversity. Be on the look out for the blue wrens, black-faced cuckoo-shrikes and the occasional falcon as you walk beside the creeks that weave through the park.",
+    "location": {
+      "description": "Shepherds Hill Recreation Park is located 11km south of Adelaide. Access is via Ayliffes Road, St Marys and Ellis Avenue, Eden Hills.",
+      "latitude": -35.01708,
+      "longitude": 138.586412
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week.",
+    "nrmRegion": [
+      "Adelaide and Mt Lofty Ranges"
+    ],
+    "satcRegion": [
+      "Adelaide"
+    ],
+    "fireBanDistrict": [
+      "Mount Lofty Ranges"
+    ],
+    "facilities": [],
+    "experiences": [
+      "Dogs on Lead",
+      "Horse Riding",
+      "Walking Trails",
+      "Cycling"
+    ]
+  },
+  {
+    "name": "Waterfall Gully",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Adelaide_Hills/Waterfall_Gully",
+    "description": "Waterfall Gully is located in Cleland Conservation Park and home to the largest of seven waterfalls in the park. Stop for a bite to eat at the Utopia @ Waterfall Gully restaurant. Housed in a historic Swiss-style chalet built in 1911, it is the only restaurant in Australia set as the base of a waterfall. The popular walking trail to Mt Lofty Summit starts at the Waterfall Gully car park and travels through the park&#39;s steep hills covered with native vegetation and stringybark forest, providing spectacular views over Adelaide.",
+    "location": {
+      "description": "Waterfall Gully is located 8km east of Adelaide. Access is via Waterfall Gully Road.",
+      "latitude": -34.966225,
+      "longitude": 138.67806
+    },
+    "openingHours": "The gates to the Waterfall Gully car park are open 6am-7pm Monday to Sunday, 6am-9pm Monday to Sunday during the daylight savings period. The Utopia @ Waterfall Gully restaurant is open 9am-5pm from Wednesday to Thursday, 9am-dusk Friday and public holidays, 8am-dusk Saturday to Sunday.",
+    "nrmRegion": [
+      "Adelaide and Mt Lofty Ranges"
+    ],
+    "satcRegion": [
+      "Adelaide Hills"
+    ],
+    "fireBanDistrict": [
+      "Mount Lofty Ranges"
+    ],
+    "facilities": [
+      "Picnic Areas",
+      "Kiosk",
+      "Toilets",
+      "Disabled Toilets"
+    ],
+    "experiences": [
+      "Walking Trails"
+    ]
+  },
+  {
+    "name": "Red Banks Conservation Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Clare_Valley/Red_Banks_Conservation_Park",
+    "description": "Red Banks Conservation Park features a scenic landscape of meandering rugged earth gorges, spring-fed waterholes and remnant old growth mallee trees. Palaeontologists have called this area one of the richest megafauna sites in Australia. Up until approximately 65,000 years ago, Red Banks was home to Diprotodons, a huge marsupial that weighed between one to two tonnes, often likened to a giant wombat. Take the fascinating Landscapes of Change interpretative walking trail which pass through deep red earth gorges and permanent waterholes to learn what the landscape was like when these large marsupials were alive.",
+    "location": {
+      "description": "Red Banks Conservation Park is located 170km north of Adelaide. Access is via Barrier Highway."
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week.",
+    "nrmRegion": [
+      "SA Murray-Darling Basin"
+    ],
+    "satcRegion": [
+      "Clare Valley"
+    ],
+    "fireBanDistrict": [
+      "Mid North"
+    ],
+    "facilities": [
+      "Picnic Areas",
+      "Caravan Sites",
+      "Toilets",
+      "Camping"
+    ],
+    "experiences": [
+      "Walking Trails",
+      "Bird Watching"
+    ]
+  },
+  {
+    "name": "Spring Gully Conservation Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Clare_Valley/Spring_Gully_Conservation_Park",
+    "description": "Spring Gully Conservation Park has a picturesque natural landscape and protects the only stand of red stringybarks in South Australia. The park has a steep, undulating terrain that leads into the creek bed of Spring Gully. From Blue Gum Lookout take a walk through grassy woodlands to a seasonal waterfall that plunges from a height of 18 metres after rain. Enjoy a picnic or admire the wildflowers and orchids that bloom in spring as you stroll through the park. You may even see the western grey kangaroos, euros and common brushtail possums.",
+    "location": {
+      "description": "The Spring Gully Conservation Park is located 130km north of Adelaide. Access is via Main North Road.",
+      "latitude": -33.911739,
+      "longitude": 138.600597
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week.",
+    "nrmRegion": [
+      "Northern and Yorke"
+    ],
+    "satcRegion": [
+      "Clare Valley"
+    ],
+    "fireBanDistrict": [
+      "Mid North"
+    ],
+    "facilities": [
+      "Picnic Areas"
+    ],
+    "experiences": [
+      "Walking Trails",
+      "Bird Watching"
+    ]
+  },
+  {
+    "name": "Acraman Creek Conservation Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Eyre_Peninsula/Acraman_Creek_Conservation_Park",
+    "description": "Acraman Creek Conservation Park offers visitors the chance to enjoy pristine beaches, rolling sand dunes, a mangrove estuary, plus samphire and mallee habitats. The park is an important feeding ground for coastal birds, with spring and summer the perfect time to marvel at the birds that visit the area. Try a spot of fishing or go canoeing in the park&#39;s surrounding waterways, including the Great Australian Bight and Acraman Creek. There is also a shipwreck from past whaling activity that lies offshore. Small boats can be launched from the beach, while 4WD vehicles can launch boats at the creek and Port Lindsay.",
+    "location": {
+      "description": "Acraman Creek Conservation Park is located 53km north of Streaky Bay or 57km south of Ceduna. Access is via Flinders Highway.",
+      "latitude": -32.444305,
+      "longitude": 134.047794
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week.",
+    "nrmRegion": [
+      "Eyre Peninsula"
+    ],
+    "satcRegion": [
+      "Eyre Peninsula"
+    ],
+    "fireBanDistrict": [
+      "West Coast"
+    ],
+    "facilities": [
+      "Camping"
+    ],
+    "experiences": [
+      "4WD",
+      "Swimming",
+      "Canoeing",
+      "Fishing",
+      "Walking Trails",
+      "Bird Watching",
+      "Boating"
+    ]
+  },
+  {
+    "name": "Gawler Ranges National Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Eyre_Peninsula/Gawler_Ranges_National_Park",
+    "description": "Gawler Ranges National Park provides fantastic opportunities for sightseeing, photography, touring by 4WD and the chance to enjoy a remote bush camping experience. The park is set against large hills and gullies with rocky gorges and home to more than 162 fauna species and 976 flora species, including several of conservation significance. Marvel at the ancient rock formations such as the dramatic Organ Pipes, which formed as a result of volcanic eruptions more than 1500 million years ago or explore the heritage sites of Old Paney Homestead, Policeman&#39;s Point and the Pondanna farm precinct. There are also several sites of Aboriginal significance in the park, mainly archaeological and burial sites.",
+    "location": {
+      "description": "Gawler Ranges National Park is located 55km north of Wudinna. Access is via Wudinna, Minnipa and Kimba on the Eyre Highway."
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week.",
+    "nrmRegion": [
+      "Eyre Peninsula",
+      "SA Arid Lands"
+    ],
+    "satcRegion": [
+      "Eyre Peninsula"
+    ],
+    "fireBanDistrict": [
+      "North West Pastoral",
+      "West Coast"
+    ],
+    "facilities": [
+      "Picnic Areas",
+      "Campfires Permitted",
+      "Toilets",
+      "Camping",
+      "Disabled Toilets"
+    ],
+    "experiences": [
+      "4WD"
+    ]
+  },
+  {
+    "name": "Lake Gilles Conservation Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Eyre_Peninsula/Lake_Gilles_Conservation_Park",
+    "description": "Lake Gilles Conservation Park is made up of sparse and semi-arid mallee landscape. The saline lake surrounded by low sandy rises, gypsum dunes and isolated stony hills provide a peaceful environment to watch the park&#39;s birdlife. The Eyre Highway passes through the park with 2WD vehicle access to the lake, while the northern area adjacent to Lake Gilles is accessible only by 4WD.",
+    "location": {
+      "description": "Lake Gilles Conservation Park is located 100km south west of Port Augusta. Access is via Eyre Highway.",
+      "latitude": -33.051839,
+      "longitude": 136.708374
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week.",
+    "nrmRegion": [
+      "SA Arid Lands"
+    ],
+    "satcRegion": [
+      "Eyre Peninsula"
+    ],
+    "fireBanDistrict": [
+      "Eastern Eyre Peninsula",
+      "North West Pastoral"
+    ],
+    "facilities": [],
+    "experiences": [
+      "4WD",
+      "Bird Watching"
+    ]
+  },
+  {
+    "name": "Lake Newland Conservation Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Eyre_Peninsula/Lake_Newland_Conservation_Park",
+    "description": "Lake Newland Conservation Park features the most extensive wetland on Eyre Peninsula. The natural saline lakes and fresh water springs that extends 20km in length provides habitat for a number of species of waterfowls and wading birds. Surrounded by extensive coastal dunes, follow the walking trails along the wetlands, bring your binoculars to watch the birdlife or cast your fishing line into the lake. The lake section of the park is only accessible by 4WD vehicles.",
+    "location": {
+      "description": "Lake Newland Conservation Park is located 30km north of Elliston. Access is via Flinders Highway.",
+      "latitude": -33.416828,
+      "longitude": 134.854774
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week.",
+    "nrmRegion": [
+      "Eyre Peninsula"
+    ],
+    "satcRegion": [
+      "Eyre Peninsula"
+    ],
+    "fireBanDistrict": [
+      "West Coast"
+    ],
+    "facilities": [
+      "Camping"
+    ],
+    "experiences": [
+      "4WD",
+      "Fishing",
+      "Walking Trails",
+      "Bird Watching"
+    ]
+  },
+  {
+    "name": "Laura Bay Conservation Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Eyre_Peninsula/Laura_Bay_Conservation_Park",
+    "description": "Laura Bay Conservation Park represents the original vegetation that once covered South Australia&#39;s western coastline. The sheltered bay, with its tidal samphire flats and mangroves, provides ideal feeding grounds for sea birds, many of which migrate from the northern hemisphere each year. Explore the sandy cove and rock pools, go swimming or fishing along the coast. A bushwalk through the park&#39;s vegetation and rocky headland will let you discover the habitat of bush birds and animals that have made their home here. You may even see the honeyeaters which are attracted to the flowering plants or the western grey kangaroos that often seek shade from the heat of the day.",
+    "location": {
+      "description": "Laura Bay Conservation Park is 20km south east of Ceduna. Access is via Decres Bay Road (unsealed) or from Flinders Highway."
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week.",
+    "nrmRegion": [
+      "Eyre Peninsula"
+    ],
+    "satcRegion": [
+      "Eyre Peninsula"
+    ],
+    "fireBanDistrict": [
+      "West Coast"
+    ],
+    "facilities": [
+      "Camping"
+    ],
+    "experiences": [
+      "Swimming",
+      "Fishing",
+      "Walking Trails"
+    ]
+  },
+  {
+    "name": "Lincoln National Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Eyre_Peninsula/Lincoln_National_Park",
+    "description": "Lincoln National Park boasts some of the most scenic coastline in South Australia, and features the vast Sleaford-Wanna sand dune system, islands, and the beautiful Memory Cove Wilderness Protection Area. Many campgrounds offer easy access to bays and beaches ideal for swimming, boating and fishing. Beachcombing and walking trails are also popular activities. More than 123 species of birds are known to visit the area providing ideal birdwatching opportunities. Look out for Australian sea-lions and New Zealand fur-seals resting on the coast after lengthy fishing trips at sea, or southern right whales that are occasionally sighted from the park. Bottle-nose and common dolphins are frequently seen close to the shore.",
+    "location": {
+      "description": "Lincoln National Park is located 13km south west of Port Lincoln. Access is via Proper Bay Road.",
+      "latitude": -34.854665,
+      "longitude": 135.909805
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week.",
+    "nrmRegion": [
+      "Eyre Peninsula"
+    ],
+    "satcRegion": [
+      "Eyre Peninsula"
+    ],
+    "fireBanDistrict": [
+      "Lower Eyre Peninsula"
+    ],
+    "facilities": [
+      "Accomm",
+      "Picnic Areas",
+      "Campfires Permitted",
+      "Caravan Sites",
+      "Toilets",
+      "Camping"
+    ],
+    "experiences": [
+      "4WD",
+      "Swimming",
+      "Scuba / Snorkelling",
+      "Canoeing",
+      "Fishing",
+      "Walking Trails",
+      "Bird Watching",
+      "Boating"
+    ]
+  },
+  {
+    "name": "Mamungari Conservation Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Eyre_Peninsula/Mamungari_Conservation_Park",
+    "description": "Mamungari Conservation Park (previously The Unnamed) is an UNESCO World Biosphere Reserve containing arid zone wilderness. The park which features red sand dunes covered with desert karrajong, acacias, desert gums and salt lakes is of cultural significance to the Maralinga Tjarutja people. The park is managed in partnership with the traditional owners and DENR. While discovering the park by foot, look out for the wildlife that inhabit the area&#39;s harsh conditions, including the princess parrots, scarlet-chested parrots and the Australian bustards. Several permits are required to travel through this area. Due to the park&#39;s remoteness, visitors must be well-equipped and experienced in outback 4WD travel.",
+    "location": {
+      "description": "Mamungari Conservation Park is located 450km north west of Ceduna. Access is via Eyre Highway.",
+      "latitude": -28.28,
+      "longitude": 129.31
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week.",
+    "nrmRegion": [
+      "Alinytljara Wilurara"
+    ],
+    "satcRegion": [
+      "Eyre Peninsula"
+    ],
+    "fireBanDistrict": [
+      "North West Pastoral"
+    ],
+    "facilities": [
+      "Campfires Permitted",
+      "Camping"
+    ],
+    "experiences": [
+      "4WD"
+    ]
+  },
+  {
+    "name": "Nullarbor National Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Eyre_Peninsula/Nullarbor_National_Park",
+    "description": "Nullarbor National Park and Regional Reserve has the world&#39;s largest semi-arid karst (cave) landscapes for you to come and explore. Most of the park&#39;s landscape is flat except where the surface has collapsed into sinkholes revealing large underground caverns. This unique geological scenery is home to many significant Aboriginal cultural heritage sites and diverse wildlife species, including the southern hairy-nosed wombat. Where the vast landscape meets the sea at Bunda Cliffs you can enjoy views spanning the coastline and you may get a chance to spot a southern right whale that come to the area to breed in winter.",
+    "location": {
+      "description": "Nullarbor National Park and Regional Reserve is located 300km west of Ceduna. Access is via Eyre Highway.",
+      "latitude": -31.448548,
+      "longitude": 129.956248
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week.",
+    "nrmRegion": [
+      "Alinytljara Wilurara"
+    ],
+    "satcRegion": [
+      "Eyre Peninsula"
+    ],
+    "fireBanDistrict": [
+      "North West Pastoral",
+      "West Coast"
+    ],
+    "facilities": [
+      "Campfires Permitted",
+      "Camping"
+    ],
+    "experiences": []
+  },
+  {
+    "name": "Nuyts Archipelago Conservation Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Eyre_Peninsula/Nuyts_Archipelago_Conservation_Park",
+    "description": "Nuyts Archipelago Conservation Park comprises 22 islands and reefs and is a haven for rare and endangered wildlife. Accessible by boat, the islands feature granite boulders with limestone domes and large sand dunes. Mangrove communities can also be found on St Peter and Eyre islands with good access to fishing nearby. Access to the Franklin islands are prohibited, however boat tours operate to the other islands in the group.",
+    "location": {
+      "description": "Nuyts Archipelago Conservation Park is located 15km off the coast of Ceduna. Access is by boat only.",
+      "latitude": -32.275522,
+      "longitude": 133.577271
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week.",
+    "nrmRegion": [
+      "Eyre Peninsula"
+    ],
+    "satcRegion": [
+      "Eyre Peninsula"
+    ],
+    "fireBanDistrict": [
+      "None"
+    ],
+    "facilities": [],
+    "experiences": []
+  },
+  {
+    "name": "Pinkawillinie Conservation Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Eyre_Peninsula/Pinkawillinie_Conservation_Park",
+    "description": "Pinkawillinie Conservation Park offers plenty of nature-based activities to enjoy its surroundings. There are a number of 4WD tracks and bushwalking trails that provide excellent opportunities to photograph wildflowers or observe wildlife that inhabit the park. One of the most popular attractions of the area is Corrobinnie Hill, consisting of unusually shaped, weathered, granite rocks. This site is located within Corrobinnie Hill Conservation Park which is accessible by 4WD from Kyancutta. Visitors to this park should be well prepared and have some 4WD experience.",
+    "location": {
+      "description": "Pinkawillinie Conservation Park is located 60km north west of Kimba. Access is via Stringer Road.",
+      "latitude": -32.932623,
+      "longitude": 135.778656
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week.",
+    "nrmRegion": [
+      "Alinytljara Wilurara",
+      "Eyre Peninsula"
+    ],
+    "satcRegion": [
+      "Eyre Peninsula"
+    ],
+    "fireBanDistrict": [
+      "Eastern Eyre Peninsula",
+      "West Coast"
+    ],
+    "facilities": [
+      "Camping"
+    ],
+    "experiences": [
+      "4WD",
+      "Walking Trails"
+    ]
+  },
+  {
+    "name": "Point Labatt Conservation Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Eyre_Peninsula/Point_Labatt_Conservation_Park",
+    "description": "Point Labatt Conservation Park is the only permanent sea-lion breeding colony on Australia&#39;s mainland where Australian seal pups can be seen learning to swim, play and rest on the beach.  Found in no other country in the world, the Australian Sea-lion is one of Australia&#39;s most endangered marine mammals and rarest seals. Point Labatt is also one of the few places in and around Australia where they are protected from land predators and which provides a safe environment for the sea-lion pups to develop. Witness these mammals in their natural habitat from a cliff top viewing area about 50 metres above the colony. Bring your binoculars for enhanced viewing experience.",
+    "location": {
+      "description": "Point Labatt Conservation Park is located 50km south of Streaky Bay on the Calca Peninsula. Access is via Sceales Bay or Calca."
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week.",
+    "nrmRegion": [
+      "Eyre Peninsula"
+    ],
+    "satcRegion": [
+      "Eyre Peninsula"
+    ],
+    "fireBanDistrict": [
+      "West Coast"
+    ],
+    "facilities": [],
+    "experiences": []
+  },
+  {
+    "name": "Sir Joseph Banks Group Conservation Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Eyre_Peninsula/Sir_Joseph_Banks_Group_Conservation_Park",
+    "description": "Sir Joseph Banks Group Conservation Park is made up of a number of wilderness islands, islets and reefs. Only accessible by boat from Tumby Bay and Port Lincoln, the park&#39;s limestone-capped islands are havens for wildlife, providing refuge for diverse birdlife and the endangered greater stick-nest rat. Some islands are prohibited as they are important breeding colonies for wildlife such as sea birds, seals and dolphins, while other islands provide ideal viewing platforms of the marine animals that inhabit the surrounding islands.",
+    "location": {
+      "description": "Sir Joseph Banks Group Conservation Park is located 20km south east off the coast of Tumby Bay.",
+      "latitude": -34.539793,
+      "longitude": 136.278191
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week.",
+    "nrmRegion": [
+      "Eyre Peninsula"
+    ],
+    "satcRegion": [
+      "Eyre Peninsula"
+    ],
+    "fireBanDistrict": [
+      "None"
+    ],
+    "facilities": [],
+    "experiences": [
+      "Scuba / Snorkelling",
+      "Fishing",
+      "Boating"
+    ]
+  },
+  {
+    "name": "Venus Bay Conservation Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Eyre_Peninsula/Venus_Bay_Conservation_Park",
+    "description": "Venus Bay Conservation Park, comprising of Weyland Peninsula and seven islands, plays an important role in the recovery and reintroduction of rare and endangered plants and animals. The threatened brush-tailed bettong and bilby have both been reintroduced into this park. Among the rugged cliffs, swamps, mangrove flats, sandy beaches, and an island tombolo (an island that rises above the water level but is tied to the mainland by a sand bar), there are perfect opportunities to go fishing or swimming and keep a look out for more than 100 bird species such as peregrine falcons, sea eagles, rock parrots and a variety of honeyeaters while you are exploring the park.",
+    "location": {
+      "description": "Venus Bay Conservation Park is located 70km south west of Streaky Bay.",
+      "latitude": -33.208531,
+      "longitude": 134.615135
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week.",
+    "nrmRegion": [
+      "Eyre Peninsula"
+    ],
+    "satcRegion": [
+      "Eyre Peninsula"
+    ],
+    "fireBanDistrict": [
+      "West Coast"
+    ],
+    "facilities": [],
+    "experiences": [
+      "4WD",
+      "Swimming",
+      "Fishing",
+      "Walking Trails",
+      "Bird Watching"
+    ]
+  },
+  {
+    "name": "Wahgunyah Conservation Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Eyre_Peninsula/Wahgunyah_Conservation_Park",
+    "description": "Wahgunyah Conservation Park is relatively undisturbed with long, windswept beaches, dunes, dense coastal mallee and coastal heath understorey. It is home to several bird species, kangaroos and wombats. There are plenty of opportunities to enjoy the park&#39;s pristine coastal environments and wildlife, from bushwalking, birdwatching and beach fishing to touring by 4WD.",
+    "location": {
+      "description": "Wahgunyah Conservation Park is located between Cape Adieu and the Head of the Bight, approximately 15km south of the Eyre Highway.",
+      "latitude": -31.729095,
+      "longitude": 131.884417
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week.",
+    "nrmRegion": [
+      "Eyre Peninsula"
+    ],
+    "satcRegion": [
+      "Eyre Peninsula"
+    ],
+    "fireBanDistrict": [
+      "West Coast"
+    ],
+    "facilities": [
+      "Camping"
+    ],
+    "experiences": [
+      "4WD",
+      "Fishing",
+      "Walking Trails",
+      "Bird Watching"
+    ]
+  },
+  {
+    "name": "Wittelbee Conservation Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Eyre_Peninsula/Wittelbee_Conservation_Park",
+    "description": "Wittelbee Conservation Park is surrounded by mallee and high sand dunes set against the low rocky headland of Wittelbee Point. Along the sandy beaches is the perfect place to relax and there are also plenty of bushwalking tracks to explore this small coastal park. Birdwatchers will enjoy the number of seabirds that forage along the foreshore, including hooded plovers and pied and sooty oyster catchers, while nature lovers can explore the samphire flats that extend beyond the dunes towards the undulating plain where red mallee, yorrells and dryland tea-tree grow.",
+    "location": {
+      "description": "Wittelbee Conservation Park is located 10km south east of Ceduna. Access is via the unsealed Decres Bay Road."
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week.",
+    "nrmRegion": [
+      "Eyre Peninsula"
+    ],
+    "satcRegion": [
+      "Eyre Peninsula"
+    ],
+    "fireBanDistrict": [
+      "West Coast"
+    ],
+    "facilities": [
+      "Camping"
+    ],
+    "experiences": [
+      "Swimming",
+      "Fishing",
+      "Walking Trails",
+      "Bird Watching"
+    ]
+  },
+  {
+    "name": "Yellabinna Regional Reserve",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Eyre_Peninsula/Yellabinna_Regional_Reserve",
+    "description": "Yellabinna Regional Reserve and Wilderness Protection Area allows visitors to experience the sparsely vegetated red sand dunes that stretch as far as the eye can see. Access to the park and wilderness area is via the Googs Track only. The stark contrast of red sand and blue sky is a photographer&#39;s delight, while the park also offers various tracks to explore by 4WD. Rare wildlife can also be found, including scarlet-chested parrots, major mitchell&#39;s cockatoos, thorny devils, sandhill dunnarts and malleefowl.",
+    "location": {
+      "description": "Yellabinna Regional Reserve and Wilderness Protection Area is located 30km north of Ceduna. Access is via Eyre Highway.",
+      "latitude": -31.23394,
+      "longitude": 133.321838
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week.",
+    "nrmRegion": [
+      "Alinytljara Wilurara",
+      "Eyre Peninsula"
+    ],
+    "satcRegion": [
+      "Eyre Peninsula"
+    ],
+    "fireBanDistrict": [
+      "North West Pastoral",
+      "West Coast"
+    ],
+    "facilities": [
+      "Campfires Permitted",
+      "Camping"
+    ],
+    "experiences": [
+      "4WD"
+    ]
+  },
+  {
+    "name": "Yumbarra Conservation Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Eyre_Peninsula/Yumbarra_Conservation_Park",
+    "description": "Yumbarra Conservation Park is named after one of the rock holes that protrudes from the earth&#39;s surface. When the rock holes fill with water they provide an important water source for local wildlife, making the park ideal for birdwatching. The park has rolling sand dunes and is an important conservation area for some rare native species, including malleefowl and sandhill dunnarts. Kangaroos, wombats and dingoes all inhabit the park. There are a number of walking trails which follow Googs Track to Googs Lake, Mount Finke and the monuments to Goog and Dinger Denton.",
+    "location": {
+      "description": "Yumbarra Conservation Park is located 30km north of Ceduna. Access is via Kalanbi Road.",
+      "latitude": -31.679732,
+      "longitude": 133.557553
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week.",
+    "nrmRegion": [
+      "Alinytljara Wilurara",
+      "Eyre Peninsula"
+    ],
+    "satcRegion": [
+      "Eyre Peninsula"
+    ],
+    "fireBanDistrict": [
+      "North West Pastoral",
+      "West Coast"
+    ],
+    "facilities": [
+      "Campfires Permitted",
+      "Camping"
+    ],
+    "experiences": [
+      "4WD",
+      "Walking Trails",
+      "Bird Watching"
+    ]
+  },
+  {
+    "name": "Aldinga Scrub Conservation Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Fleurieu_Peninsula/Aldinga_Scrub_Conservation_Park",
+    "description": "Aldinga Scrub Conservation Park is home to a diverse range of rare plants and is recognised as a significant area for the conservation and protection of the region&#39;s flora. Lacy coral lichen, nardoo, hairy sedge and several species of orchids are among the park&#39;s rare species of flora. Remember to look out for the brush-tailed possums, short-beaked echidnas, bats, and geckos that live in the park. Situated in the Willunga sub-basin, Aldinga Scrub features an impressive backdrop of sand dunes, sand blows (mobile dunes), mallee scrub, remnant red gum forests and closed heaths. Several walking trails provide fantastic opportunities for visitors to enjoy the park&#39;s habitat and coastal plant life.",
+    "location": {
+      "description": "Aldinga Scrub Conservation Park is located 46km south of Adelaide. Access is via Dover Street off Aldinga Beach Road.",
+      "latitude": -35.298315,
+      "longitude": 138.456144
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week.",
+    "nrmRegion": [
+      "Adelaide and Mt Lofty Ranges"
+    ],
+    "satcRegion": [
+      "Fleurieu Peninsula"
+    ],
+    "fireBanDistrict": [
+      "Mount Lofty Ranges"
+    ],
+    "facilities": [],
+    "experiences": [
+      "Walking Trails",
+      "Bird Watching"
+    ]
+  },
+  {
+    "name": "Cox Scrub Conservation Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Fleurieu_Peninsula/Cox_Scrub_Conservation_Park",
+    "description": "Cox Scrub Conservation Park is a haven for bushwalkers and birdwatchers. The park&#39;s open scrub and tall shrubland provides habitat for a range of birdlife, including honeyeaters and yellow-tailed black-cockatoos. There are many walking trails providing great opportunities to enjoy the scenery and see wildlife among the low wooded hills. Visit in spring when you can see the park&#39;s glorious native wildflowers in abundance. You can also see changes in the vegetation resulting from a series of fires in recent years. Stop for a picnic or rest under the shade at Coles Crossing on the Finniss River which offers designated sites to camp overnight.",
+    "location": {
+      "description": "Cox Scrub Conservation Park is located 70km south of Adelaide. Access is via Goolwa Road and South Eastern Freeway.",
+      "latitude": -35.334033,
+      "longitude": 138.734193
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week.",
+    "nrmRegion": [
+      "SA Murray-Darling Basin"
+    ],
+    "satcRegion": [
+      "Fleurieu Peninsula"
+    ],
+    "fireBanDistrict": [
+      "Mount Lofty Ranges"
+    ],
+    "facilities": [
+      "Picnic Areas",
+      "Camping"
+    ],
+    "experiences": [
+      "Walking Trails",
+      "Bird Watching"
+    ]
+  },
+  {
+    "name": "Deep Creek Conservation Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Fleurieu_Peninsula/Deep_Creek_Conservation_Park",
+    "description": "Deep Creek Conservation Park has an extensive network of walking trails, including sections of the Heysen Trail, which reveal the beautiful bushland and rugged terrain of the park. The walking trails also provide spectacular scenery of the Backstairs Passage, Kangaroo Island and the rugged Deep Creek valley. The park is the largest remaining block of wildlife habitat on the Fleurieu Peninsula and is home to an array of native wildlife. Look out for western grey kangaroos, short-beaked echidnas or some of the 100 bird species that can easily be heard or spotted when in Deep Creek. Extend your stay at one of the many accommodation options located in the park.",
+    "location": {
+      "description": "Deep Creek Conservation Park is located 108km south of Adelaide. Access is via Main South Road from Adelaide or Range Road from Victor Harbor.",
+      "latitude": -35.616,
+      "longitude": 138.24955
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week.",
+    "nrmRegion": [
+      "Adelaide and Mt Lofty Ranges"
+    ],
+    "satcRegion": [
+      "Fleurieu Peninsula"
+    ],
+    "fireBanDistrict": [
+      "Mount Lofty Ranges"
+    ],
+    "facilities": [
+      "Information Office",
+      "Showers",
+      "Accomm",
+      "Picnic Areas",
+      "Campfires Permitted",
+      "Caravan Sites",
+      "Toilets",
+      "Camping"
+    ],
+    "experiences": [
+      "Fishing",
+      "Walking Trails"
+    ]
+  },
+  {
+    "name": "Granite Island Recreation Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Fleurieu_Peninsula/Granite_Island_Recreation_Park",
+    "description": "Granite Island Recreation Park, characterised by its huge granite boulders tinged with orange lichen, is home to a colony of little penguins. Take a guided tour at dusk to learn more about these animals that live and breed on the island. Afterwards, relax in the caf&#233; overlooking Encounter Bay. You may even spot a southern right whale between June and October. The park is connected to the mainland at Victor Harbor by a wooden causeway that you can take a short stroll or horse tram ride over. Enjoy the coastal scenery and discover the island&#39;s interesting history along the Kaiki Walk or go fishing from the jetty, breakwater or causeway.",
+    "location": {
+      "description": "Granite Island Recreation Park is located off the coast of Victor Harbor, approximately 100km south of Adelaide."
+    },
+    "openingHours": "The park is open daily from sunrise to sunset.",
+    "nrmRegion": [
+      "Adelaide and Mt Lofty Ranges"
+    ],
+    "satcRegion": [
+      "Fleurieu Peninsula"
+    ],
+    "fireBanDistrict": [
+      "Mount Lofty Ranges"
+    ],
+    "facilities": [
+      "Picnic Areas",
+      "Toilets",
+      "Guided Tours",
+      "Disabled Toilets"
+    ],
+    "experiences": [
+      "Scuba / Snorkelling",
+      "Fishing",
+      "Walking Trails",
+      "Boating"
+    ]
+  },
+  {
+    "name": "Moana Sands Conservation Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Fleurieu_Peninsula/Moana_Sands_Conservation_Park",
+    "description": "Moana Sands Conservation Park is a significant Aboriginal cultural heritage site. Coastal sand dunes are very important in the cultural traditions of the Kaurna people who made their summer camp in the dunes next to Pedlar Creek. Many archaeological artefacts, including burial sites, hearths and shell middens - some dating back more than 6000 years - have been found where the overlying sand has blown away. Although a long history of sand mining, farming and recreational activities has impacted on the landscape and native vegetation of the park, you can still enjoy opportunities to observe birdlife such as the rare hooded plover that call the low coastal vegetation their home.",
+    "location": {
+      "description": "Moana Sands Conservation Park is located 35km south of Adelaide. Access is via Main South Road to Old Noarlunga.",
+      "latitude": -35.201271,
+      "longitude": 138.472431
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week.",
+    "nrmRegion": [
+      "Adelaide and Mt Lofty Ranges"
+    ],
+    "satcRegion": [
+      "Fleurieu Peninsula"
+    ],
+    "fireBanDistrict": [
+      "Adelaide Metropolitan"
+    ],
+    "facilities": [],
+    "experiences": [
+      "Bird Watching"
+    ]
+  },
+  {
+    "name": "Newland Head Conservation Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Fleurieu_Peninsula/Newland_Head_Conservation_Park",
+    "description": "Newland Head Conservation Park is located on the southern coast of the Fleurieu Peninsula. The park protects two long beaches, Waitpinga and Parsons, as well as rocky headlands and surrounding coastal vegetation. Follow the walking trails along the rolling hills and rugged cliffs which provide panoramic views of the Waitpinga Creek, Encounter Bay, the Pages in Backstairs Passage and Kangaroo Island. Newland Head is a popular destination for surfing and fishing, however due to strong rips and hidden gutters, the park&#39;s beaches are not suitable for swimming. After a day of beach fishing, set up camp at Waitpinga Campground and enjoy the distant sound of waves rolling onto the beach.",
+    "location": {
+      "description": "Newland Head Conservation Park is located 91km south of Adelaide. Access is via Waitpinga Road, Victor Harbor.",
+      "latitude": -35.628698,
+      "longitude": 138.503437
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week.",
+    "nrmRegion": [
+      "Adelaide and Mt Lofty Ranges"
+    ],
+    "satcRegion": [
+      "Fleurieu Peninsula"
+    ],
+    "fireBanDistrict": [
+      "Mount Lofty Ranges"
+    ],
+    "facilities": [
+      "Picnic Areas",
+      "BBQ Facilities",
+      "Toilets",
+      "Camping",
+      "Disabled Toilets"
+    ],
+    "experiences": [
+      "Fishing",
+      "Walking Trails"
+    ]
+  },
+  {
+    "name": "Onkaparinga River National Park and Recreation Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Fleurieu_Peninsula/Onkaparinga_River_National_Park_and_Recreation_Park",
+    "description": "Onkaparinga River National Park, which incorporates the Onkaparinga River Recreation Park, follows the river to the sea, discovering an entirely different environment in its estuary and wetlands. It is here that you can go fishing in the estuary waters or canoe your way along the Onkaparinga River. You can also walk your dog within the recreational zone of this park. Experience the Onkaparinga Gorge&#39;s spectacular rugged scenery and the contrasting wetlands which provide ideal breeding habitats for numerous fish and bird species along an array of walking trails - ranging from easy walks to challenging hikes. Experienced rock climbers can scale solid cliff rock faces in designated rock climbing areas.",
+    "location": {
+      "description": "Onkaparinga River National Park is located 35km south of Adelaide. Access to the estuary area is from River Road, Commercial Road, Port Noarlunga South and Sauerbiers Road, Port Noarlunga South. The park&#39;s main walking area is on the northern side of the gorge from Piggott Range Road where there are a variety of accessible trails.",
+      "latitude": -35.157039,
+      "longitude": 138.573647
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week.",
+    "nrmRegion": [
+      "Adelaide and Mt Lofty Ranges"
+    ],
+    "satcRegion": [
+      "Fleurieu Peninsula"
+    ],
+    "fireBanDistrict": [
+      "Adelaide Metropolitan",
+      "Mount Lofty Ranges"
+    ],
+    "facilities": [
+      "Picnic Areas",
+      "BBQ Facilities",
+      "Toilets"
+    ],
+    "experiences": [
+      "Rock Climbing",
+      "Dogs on Lead",
+      "Canoeing",
+      "Fishing",
+      "Walking Trails",
+      "Bird Watching",
+      "Cycling"
+    ]
+  },
+  {
+    "name": "Malkumba-Coongie Lakes National Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Flinders_Ranges_and_Outback/Malkumba-Coongie_Lakes_National_Park",
+    "description": "Malkumba-Coongie Lakes National Park is one of the most spectacular of South Australia&#39;s natural attractions. The park is a pristine water world made up of channels, waterholes, lakes, internal deltas, shallow floodplains and interdune corridors and swamps. Coongie Lakes National Park may be closed intermittently throughout 2012 due to local rain and floodwaters. Check the Desert Parks Bulletin for the latest information. This arid wetland plays host to a diversity of wildlife including native birds, fish, reptiles and frogs and transforms into a breeding ground for an enormous number of migratory birds from around the world. Birdwatching, photography, bushwalking and canoeing are popular ways to enjoy the park&#39;s wilderness setting.",
+    "location": {
+      "description": "Malkumba-Coongie Lakes National Park is located 100km north west of Innamincka. Access is along the Strzelecki Track, via Leigh Creek.",
+      "latitude": -27.172804,
+      "longitude": 140.162888
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week.",
+    "nrmRegion": [
+      "SA Arid Lands"
+    ],
+    "satcRegion": [
+      "Flinders Ranges & Outback"
+    ],
+    "fireBanDistrict": [
+      "North East Pastoral"
+    ],
+    "facilities": [
+      "Toilets",
+      "Camping"
+    ],
+    "experiences": [
+      "4WD",
+      "Swimming",
+      "Canoeing",
+      "Bird Watching"
+    ]
+  },
+  {
+    "name": "Flinders Ranges National Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Flinders_Ranges_and_Outback/Flinders_Ranges_National_Park",
+    "description": "Flinders Ranges National Park, renowned for its natural, cultural and geological significance, is one of Australia&#39;s premier national landscapes. The famous landmark of Wilpena Pound (Ikara) is cradled within the park&#39;s rugged mountain ranges. Start at the Wilpena Pound Visitor Information Centre which has extensive information about the park. Explore the park&#39;s spectacular gorges, sheltered creeks lined with river red gums, abundant wildlife, Aboriginal rock art sites, fossil heritage and ruins of early European settlement. For an in-depth look at the wonders of the region join a guided tour and enjoy a scenic flight over Wilpena Pound, or make your own discoveries along the many bushwalking trails and scenic drives.",
+    "location": {
+      "description": "Flinders Ranges National Park is located in the Flinders Ranges between the townships of Hawker and Blinman, 450km north of Adelaide.",
+      "latitude": -31.363018,
+      "longitude": 138.600769
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week. Wilpena Pound Visitor Information Centre is open 8am-5pm daily. Old Wilpena Station is open 8am-5pm daily.",
+    "nrmRegion": [
+      "SA Arid Lands"
+    ],
+    "satcRegion": [
+      "Flinders Ranges & Outback"
+    ],
+    "fireBanDistrict": [
+      "Flinders"
+    ],
+    "facilities": [
+      "Information Office",
+      "Showers",
+      "Accomm",
+      "Picnic Areas",
+      "Kiosk",
+      "Campfires Permitted",
+      "Caravan Sites",
+      "BBQ Facilities",
+      "Toilets",
+      "Guided Tours",
+      "Camping",
+      "Disabled Toilets"
+    ],
+    "experiences": [
+      "4WD",
+      "Rock Climbing",
+      "Walking Trails",
+      "Bird Watching",
+      "Cycling"
+    ]
+  },
+  {
+    "name": "Innamincka Regional Reserve",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Flinders_Ranges_and_Outback/Innamincka_Regional_Reserve",
+    "description": "Innamincka Regional Reserve is a park of contrasts; ranging from wetlands and waterholes of the Cooper Creek system where you can go swimming, fishing, canoeing or boating to the stark arid outback. Covering more than 1.3 million hectares of land, the reserve also sustains a large commercial beef cattle enterprise, and oil and gas fields. The heritage-listed park headquarters and interpretation centre gives an insight into the natural history of the area; European settlement, Aboriginal people and Australia&#39;s most famous explorers, Burke and Wills. From there, visit the actual graves of Burke and Wills and the historic Dig Tree site which once played a significant part in their ill-fated expedition.",
+    "location": {
+      "description": "Innamincka is 1046km from Adelaide. Access is via the Strzelecki Track via Leigh Creek.",
+      "latitude": -27.459539,
+      "longitude": 140.515137
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week.",
+    "nrmRegion": [
+      "SA Arid Lands"
+    ],
+    "satcRegion": [
+      "Flinders Ranges & Outback"
+    ],
+    "fireBanDistrict": [
+      "North East Pastoral"
+    ],
+    "facilities": [
+      "Information Office",
+      "Showers",
+      "Accomm",
+      "Kiosk",
+      "Campfires Permitted",
+      "Toilets",
+      "Camping"
+    ],
+    "experiences": [
+      "4WD",
+      "Dogs on Lead",
+      "Canoeing",
+      "Fishing",
+      "Bird Watching",
+      "Boating"
+    ]
+  },
+  {
+    "name": "Kati Thanda-Lake Eyre National Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Flinders_Ranges_and_Outback/Kati_Thanda-Lake_Eyre_National_Park",
+    "description": "Kati Thanda-Lake Eyre National Park is home to Australia&#39;s largest salt lake. ",
+    "location": {
+      "description": "Kati Thanda-Lake Eyre National Park is located 60km east of William Creek. Access is via the Oodnadatta Track and Halligan Bay Public Access Route. Kati Thanda-Lake Eyre National Park is also 95km north west of Marree. Access is via Muloorina Station and Level Post Bay Public Access Route.",
+      "latitude": -28.314658,
+      "longitude": 137.608566
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week.",
+    "nrmRegion": [
+      "SA Arid Lands"
+    ],
+    "satcRegion": [
+      "Flinders Ranges & Outback"
+    ],
+    "fireBanDistrict": [
+      "North East Pastoral"
+    ],
+    "facilities": [
+      "Picnic Areas",
+      "Toilets",
+      "Camping"
+    ],
+    "experiences": [
+      "4WD",
+      "Bird Watching"
+    ]
+  },
+  {
+    "name": "Lake Torrens National Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Flinders_Ranges_and_Outback/Lake_Torrens_National_Park",
+    "description": "Lake Torrens National Park offers visitors the chance to experience a stark wilderness and salt lake that stretches 250km in length. The park&#39;s landscape provides opportunities for photography and studying geology. Lake Torrens is usually a dry salt flat. It has only been filled with water once in the past 150 years. Thunderstorms occasionally provide a small amount of water in the lake, when this occurs the area attracts a variety of birdlife.",
+    "location": {
+      "description": "Lake Torrens National Park is located 345km north of Adelaide. Access to the park is by either of two tracks: Leigh Creek to Lyndhurst to Farina Ruins to Andamooka via Mulgaria Station - permission required from Mulgaria Station; Roxby Downs to Andamooka to Lake Torrens - permission required from Andamooka Station"
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week.",
+    "nrmRegion": [
+      "SA Arid Lands"
+    ],
+    "satcRegion": [
+      "Flinders Ranges & Outback"
+    ],
+    "fireBanDistrict": [
+      "North East Pastoral",
+      "North West Pastoral"
+    ],
+    "facilities": [],
+    "experiences": [
+      "4WD"
+    ]
+  },
+  {
+    "name": "Mount Brown Conservation Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Flinders_Ranges_and_Outback/Mount_Brown_Conservation_Park",
+    "description": "Mount Brown Conservation Park is where you will find one of the highest peaks in the Southern Flinders Ranges; rising to 964 metres above sea level Mount Brown towers over the surrounding landscape. This former forest reserve is comprised of undulating country with a variety of cover grading to rugged ridges with open woodland and scrub. From Waukarie Falls, hike to the summit of Mount Brown and enjoy the views across the Southern Flinders Ranges from the lookout. This lookout commemorates Robert Brown who was the naturalist aboard Matthew Flinders&#39; Investigator. Along this 15km loop trail evidence of a 1km deep canyon formed 600 million years ago can be found.",
+    "location": {
+      "description": "Mount Brown Conservation Park is located 14km south of Quorn. Access is via Richman Valley Road.",
+      "latitude": -32.49847,
+      "longitude": 138.035488
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week.",
+    "nrmRegion": [
+      "Northern and Yorke"
+    ],
+    "satcRegion": [
+      "Flinders Ranges & Outback"
+    ],
+    "fireBanDistrict": [
+      "Flinders"
+    ],
+    "facilities": [],
+    "experiences": [
+      "Walking Trails",
+      "Bird Watching"
+    ]
+  },
+  {
+    "name": "Mount Remarkable National Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Flinders_Ranges_and_Outback/Mount_Remarkable_National_Park",
+    "description": "Mount Remarkable National Park is a popular destination for bushwalking and camping with dramatic gorges, walking trails and diverse wildlife just the beginning of its appeal. The park features the 960m high Mount Remarkable Summit which can be reached along the Mount Remarkable Summit Hike from Melrose, providing impressive views of Willochra Plain and Spencer Gulf. Autumn to spring is the best time to visit the park when the weather is mild and the vegetation and wildlife are thriving. The extensive walking trails provide the perfect opportunity to explore the park&#39;s diverse habitats, from the red quartzite gorges, watercourses lined with river red gums to grassy woodlands and high ridges.",
+    "location": {
+      "description": "Mount Remarkable National Park is located 45km north of Port Pirie. Access is via National Highway one. Access from National Highway one is via the park headquarters at Mambray Creek (5km) or a picturesque drive commencing 1km south of Wilmington on Main North Rd to Alligator Gorge (13km). Walking access is provided from Melrose, which lies at the foot of Mount Remarkable.",
+      "latitude": -32.790738,
+      "longitude": 138.058319
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week.",
+    "nrmRegion": [
+      "Northern and Yorke"
+    ],
+    "satcRegion": [
+      "Flinders Ranges & Outback"
+    ],
+    "fireBanDistrict": [
+      "Flinders"
+    ],
+    "facilities": [
+      "Showers",
+      "Accomm",
+      "Picnic Areas",
+      "Campfires Permitted",
+      "Caravan Sites",
+      "BBQ Facilities",
+      "Toilets",
+      "Camping",
+      "Disabled Toilets"
+    ],
+    "experiences": [
+      "Walking Trails",
+      "Bird Watching"
+    ]
+  },
+  {
+    "name": "Simpson Desert Conservation Park and Regional Reserve",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Flinders_Ranges_and_Outback/Simpson_Desert_Conservation_Park_and_Regional_Reserve",
+    "description": "Simpson Desert Conservation Park is in the centre of the Simpson Desert, one of the world&#39;s best examples of a parallel dunal desert. The desert’s sand dunes stretch over hundreds of kilometres. Explore by four-wheel driving among the red dunes, salt-crusted lakes, vast stretches of grasslands, dense scrubland and even tall stands of hakea and gidgee. After the rains the wildflowers bloom across the sand dunes. The Simpson Desert Regional Reserve, just outside the park, features a wide variety of desert wildlife preserved in a landscape of varied dune systems, extensive playa lakes, spinifex grasslands and acacia woodlands. The reserve links the Simpson Desert Conservation Park to Witjira National Park.",
+    "location": {
+      "description": "Simpson Desert Conservation Park is located 957km north of Port Augusta. Access is via Stuart Highway, via Oodnadatta and Dalhousie Springs or through Birdsville from the east.",
+      "latitude": -26.248624,
+      "longitude": 137.876664
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week April to November. Both the conservation park and regional reserve are closed from 1 December to 15 March.",
+    "nrmRegion": [
+      "SA Arid Lands"
+    ],
+    "satcRegion": [
+      "Flinders Ranges & Outback"
+    ],
+    "fireBanDistrict": [
+      "North East Pastoral"
+    ],
+    "facilities": [
+      "Campfires Permitted",
+      "Camping"
+    ],
+    "experiences": [
+      "4WD",
+      "Bird Watching"
+    ]
+  },
+  {
+    "name": "Tallaringa Conservation Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Flinders_Ranges_and_Outback/Tallaringa_Conservation_Park",
+    "description": "Tallaringa Conservation Park is located on the fringe of the Great Victoria Desert and is a vast wilderness of vegetated dunes and gibber rises. The park supports a variety of important wildlife species that have adapted to live in this dry arid environment. For a four-wheel driving adventure, travel along the Anne Beadell Highway, a rough bush track, which commences on the eastern edge of the park and ends at Laverton in Western Australia over 1,300km away.",
+    "location": {
+      "description": "Tallaringa Conservation Park is located 615km north west of Port Augusta. Access is via Stuart Highway, Coober Pedy or Mabel Creek Station.",
+      "latitude": -28.623104,
+      "longitude": 133.48114
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week.",
+    "nrmRegion": [
+      "Alinytljara Wilurara"
+    ],
+    "satcRegion": [
+      "Flinders Ranges & Outback"
+    ],
+    "fireBanDistrict": [
+      "North West Pastoral"
+    ],
+    "facilities": [
+      "Campfires Permitted",
+      "Camping"
+    ],
+    "experiences": [
+      "4WD"
+    ]
+  },
+  {
+    "name": "The Dutchmans Stern Conservation Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Flinders_Ranges_and_Outback/The_Dutchmans_Stern_Conservation_Park",
+    "description": "The Dutchmans Stern Conservation Park is home to a host of plants and animals, and has plenty of walking trails to explore the rugged landscape. The bluff known as the Dutchmans Stern is located 10km north east of Quorn and is a prominent landmark. Make your way to the summit via the Dutchmans Stern hiking trail. The summit offers spectacular views of Spencer Gulf, surrounding ranges and the Willochra Plain. The Heysen Trail also winds its way through the park. Extend your visit overnight at the old homestead or shearers&#39; quarters located within the park.",
+    "location": {
+      "description": "Dutchmans Stern Conservation Park is located 10km north west of Quorn. Access is via Arden Vale Road.",
+      "latitude": -32.320939,
+      "longitude": 137.931633
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week.",
+    "nrmRegion": [
+      "Northern and Yorke",
+      "SA Arid Lands"
+    ],
+    "satcRegion": [
+      "Flinders Ranges & Outback"
+    ],
+    "fireBanDistrict": [
+      "Flinders"
+    ],
+    "facilities": [
+      "Accomm",
+      "Picnic Areas"
+    ],
+    "experiences": [
+      "Walking Trails",
+      "Bird Watching"
+    ]
+  },
+  {
+    "name": "Vulkathunha-Gammon Ranges National Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Flinders_Ranges_and_Outback/Vulkathunha-Gammon_Ranges_National_Park",
+    "description": "Vulkathunha - Gammon Ranges National Park is a rugged and remote park in the North Flinders Ranges. There are several hiking trails to explore the park including the Italowie Gorge Hike which takes you past Mount McKinlay Spring or the Weetootla Gorge Hike which meanders though the stunning Weetootla Gorge. The park&#39;s deep gorges and chasms, towering ranges, tree-lined creeks and freshwater springs are havens for many rare and endangered plants and animals. There are several tracks to explore the park and its surrounding areas by car. Most tracks are accessible by 2WD, although the Wortupa Loop Track and the track to Lake Frome, an ephemeral salt lake, require 4WDs.",
+    "location": {
+      "description": "Vulkathunha - Gammon Ranges National Park is located 750km north of Adelaide and 110km from Leigh Creek.",
+      "latitude": -30.528554,
+      "longitude": 139.160385
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week.",
+    "nrmRegion": [
+      "SA Arid Lands"
+    ],
+    "satcRegion": [
+      "Flinders Ranges & Outback"
+    ],
+    "fireBanDistrict": [
+      "North East Pastoral"
+    ],
+    "facilities": [
+      "Showers",
+      "Accomm",
+      "Picnic Areas",
+      "Campfires Permitted",
+      "Caravan Sites",
+      "Toilets",
+      "Camping"
+    ],
+    "experiences": [
+      "4WD",
+      "Walking Trails"
+    ]
+  },
+  {
+    "name": "Wabma Kadarbu Mound Springs Conservation Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Flinders_Ranges_and_Outback/Wabma_Kadarbu_Mound_Springs_Conservation_Park",
+    "description": "Wabma Kadarbu Mound Springs Conservation Park gives visitors the chance to explore the natural artesian springs within the park. The Blanche Cup and The Bubbler mound springs are created from water deep within the Great Artesian Basin which filters to the surface forming mounds and bubbling ponds. The wetlands created by the spring&#39;s overflow provide habitat to a variety of waterbirds. It is here among this fragile and arid environment where the extinct mound spring of Hamilton Hill can also be found.",
+    "location": {
+      "description": "Wabma Kadarbu Mound Springs Conservation Park is located 498km north of Port Augusta. Access is via Oodnadatta Track.",
+      "latitude": -29.444082,
+      "longitude": 136.859093
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week.",
+    "nrmRegion": [
+      "SA Arid Lands"
+    ],
+    "satcRegion": [
+      "Flinders Ranges & Outback"
+    ],
+    "fireBanDistrict": [
+      "North East Pastoral"
+    ],
+    "facilities": [],
+    "experiences": [
+      "4WD",
+      "Bird Watching"
+    ]
+  },
+  {
+    "name": "Witjira National Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Flinders_Ranges_and_Outback/Witjira_National_Park",
+    "description": "Witjira National Park features more than 120 mound springs providing opportunities to swim in the warm waters of the Dalhousie Main Spring. If you&#39;re lucky enough to be visiting the park a few weeks after a soaking rain, you&#39;ll be rewarded with the ephemeral wildflowers bursting into bloom. The thermal springs are surrounded by lush vegetation and were used by Aboriginal people as a source of food, shelter and medicine. They are home to unique species of fish such as the Lake Eyre hardy-head and other rare aquatic life that are found nowhere else in the world. The springs are also a haven for arid land birdlife and other animals.",
+    "location": {
+      "description": "Witjira National Park is located 887km north west of Port Augusta. Access is via Stuart Highway, Oodnadatta."
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week.",
+    "nrmRegion": [
+      "SA Arid Lands"
+    ],
+    "satcRegion": [
+      "Flinders Ranges & Outback"
+    ],
+    "fireBanDistrict": [
+      "North East Pastoral"
+    ],
+    "facilities": [
+      "Showers",
+      "Picnic Areas",
+      "Caravan Sites",
+      "Toilets",
+      "Camping"
+    ],
+    "experiences": [
+      "4WD",
+      "Swimming",
+      "Bird Watching"
+    ]
+  },
+  {
+    "name": "Baudin Conservation Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Kangaroo_Island/Baudin",
+    "description": "Baudin Conservation Park on Kangaroo Island was a family farm from 1861 to 2001. Interpretation along the Ironstone Hill Hike that follows the original bullock track provides an insight into how the Bates family lived and worked in this area. With spectacular views across Backstairs Passage, which adjoins the park, to the Fleurieu Peninsula, the hike leads to Ironstone Hill where the ruins of the Bates&#39; cottage and a stone threshing floor remain. While walking through the park you may encounter little penguins - which are best observed at night using a red filtered torch. Tammar wallabies and rare glossy black-cockatoos may also be seen feeding in the sheoak forest.",
+    "location": {
+      "description": "Baudin Conservation Park is located 2km south east of Penneshaw. Access is via Frenchman&#39;s Terrace. Car parking is available at the start of Binneys Track.",
+      "latitude": -35.724098,
+      "longitude": 137.963837
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week.",
+    "nrmRegion": [
+      "Kangaroo Island"
+    ],
+    "satcRegion": [
+      "Kangaroo Island"
+    ],
+    "fireBanDistrict": [
+      "Kangaroo Island"
+    ],
+    "facilities": [],
+    "experiences": [
+      "Walking Trails"
+    ]
+  },
+  {
+    "name": "Cape Gantheaume Conservation Park and Wilderness Protection Area",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Kangaroo_Island/Cape_Gantheaume",
+    "description": "Cape Gantheaume Conservation Park and Wilderness Protection Area on the south coast of Kangaroo Island provides a spectacular backdrop to vast areas of wilderness, the Island&#39;s largest freshwater lake and coastal scenery. Murray Lagoon supports wetland habitat for abundant birdlife, while D&#39;Estrees Bay has beautiful beaches for recreation. The historic bay is connected to the island&#39;s early whaling industry. The park has plenty of walking opportunities, including the unmarked Cape Gantheaume Coastal Trek, suitable for experienced hikers only, and established trails at Murray Lagoon. The self-guided drive along D&#39;Estrees Bay Road allows the visitor to discover the natural and cultural significance of the area. Designated points of interest along the 8km drive are marked.",
+    "location": {
+      "description": "Cape Gantheaume Conservation Park is located 40km south west of Kingscote. Access is via Birchmore Road.",
+      "latitude": -36.0118,
+      "longitude": 137.4692
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week.",
+    "nrmRegion": [
+      "Kangaroo Island"
+    ],
+    "satcRegion": [
+      "Kangaroo Island"
+    ],
+    "fireBanDistrict": [
+      "Kangaroo Island"
+    ],
+    "facilities": [
+      "Picnic Areas",
+      "Caravan Sites",
+      "Toilets",
+      "Camping",
+      "Disabled Toilets"
+    ],
+    "experiences": [
+      "Scuba / Snorkelling",
+      "Rock Climbing",
+      "Canoeing",
+      "Fishing",
+      "Walking Trails",
+      "Bird Watching",
+      "Boating"
+    ]
+  },
+  {
+    "name": "Flinders Chase National Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Kangaroo_Island/Flinders_Chase",
+    "description": "Flinders Chase National Park in Kangaroo Island invites you to come and explore the vast area of wilderness that makes up the park. Learn more about the national park at the Flinders Chase Visitor Centre and stay in one of the camping and accommodation options located throughout the park. Flinders Chase features the spectacular Remarkable Rocks and Admirals Arch as well as a colony of New Zealand fur-seals at Cape du Couedic. A network of walking trails and boardwalks enable you to enjoy the park and its diverse wildlife.",
+    "location": {
+      "description": "Flinders Chase National Park is located 110km west of Kingscote. Follow the Playford Highway or South Coast Road.",
+      "latitude": -35.874585,
+      "longitude": 136.707687
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week, although day visitors are requested to leave the park at sunset. The Flinders Chase Visitor Centre is open 9am-5pm daily (except Christmas Day).",
+    "nrmRegion": [
+      "Kangaroo Island"
+    ],
+    "satcRegion": [
+      "Kangaroo Island"
+    ],
+    "fireBanDistrict": [
+      "Kangaroo Island"
+    ],
+    "facilities": [
+      "Information Office",
+      "Showers",
+      "Accomm",
+      "Picnic Areas",
+      "Kiosk",
+      "Caravan Sites",
+      "BBQ Facilities",
+      "Toilets",
+      "Camping",
+      "Disabled Toilets"
+    ],
+    "experiences": [
+      "Walking Trails",
+      "Bird Watching"
+    ]
+  },
+  {
+    "name": "Beachport Conservation Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Limestone_Coast/Beachport_Conservation_Park",
+    "description": "Beachport Conservation Park&#39;s white sandy beaches and coastal flora is home to an array of birdlife, making it an ideal spot for birdwatching. Bring your binoculars for the chance to spy a rare orange-bellied parrot that occupies the coastal saltmarsh and beach dunes. Look out for hooded plovers which are often seen nesting along the beach. The park features weathered limestone cliffs and middens - the discarded remains of shellfish left by the Boandik Aboriginal people. The walking trail around Woolley Lake offers panoramic views of the ocean and neighbouring Lake George. Enjoy a picnic at Lake George, or go swimming and sailing in the waters at Five Mile Drift.",
+    "location": {
+      "description": "Beachport Conservation Park is located 50km south of Robe or 385km south east of Adelaide. Access is along Alternate Highway One via Beachport.",
+      "latitude": -37.456464,
+      "longitude": 139.978867
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week.",
+    "nrmRegion": [
+      "South East"
+    ],
+    "satcRegion": [
+      "Limestone Coast"
+    ],
+    "fireBanDistrict": [
+      "Lower South East"
+    ],
+    "facilities": [
+      "Picnic Areas",
+      "Campfires Permitted",
+      "Toilets",
+      "Camping",
+      "Disabled Toilets"
+    ],
+    "experiences": [
+      "4WD",
+      "Swimming",
+      "Scuba / Snorkelling",
+      "Fishing",
+      "Walking Trails",
+      "Bird Watching"
+    ]
+  },
+  {
+    "name": "Bool Lagoon Game Reserve and Hacks Lagoon Conservation Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Limestone_Coast/Bool_Lagoon_Hacks_Lagoon",
+    "description": "Bool Lagoon Game Reserve is one of the largest and most diverse freshwater lagoon systems in southern Australia. This seasonal wetland is home to a wide range of wildlife and provides essential drought refuge for many rare and endangered bird species. Brolgas are perhaps the most spectacular of the 150 species of birds that visit this area. Enjoy the magnificent scenery along a 500 metre boardwalk over the wetlands. Hacks Lagoon Conservation Park adjoins the main basin of Bool Lagoon. Whether you are a birdwatcher, a lover of open space, or merely wish to escape the hustle and bustle of modern life, Hacks Lagoon offers another wetland habitat to explore.",
+    "location": {
+      "description": "Bool Lagoon Game Reserve and Hacks Lagoon Conservation Park is located 360km south east of Adelaide.",
+      "latitude": -37.111719,
+      "longitude": 140.688699
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week. Closed on Total Fire Ban days.",
+    "nrmRegion": [
+      "South East"
+    ],
+    "satcRegion": [
+      "Limestone Coast"
+    ],
+    "fireBanDistrict": [
+      "Lower South East"
+    ],
+    "facilities": [
+      "Picnic Areas",
+      "BBQ Facilities",
+      "Toilets",
+      "Camping",
+      "Disabled Toilets"
+    ],
+    "experiences": [
+      "Walking Trails",
+      "Bird Watching"
+    ]
+  },
+  {
+    "name": "Butcher Gap Conservation Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Limestone_Coast/Butcher_Gap_Conservation_Park",
+    "description": "Butcher Gap Conservation Park is one of the last remaining significant coastal scrubs between the Coorong and Robe. This wetland area, encompassing Salt Lake and Butcher Lake, usually holds water between June and January which is the best time to see waterbirds such as swans, white-faced herons, chestnut teal, black duck and mountain duck. In spring and summer, the area is visited by Japanese snipe and other wading birds. In winter the park provides an important refuge for the endangered orange-bellied parrot. Small bush birds may be seen along the park&#39;s scenic walking trails so look out for the brown quail and stubble quail hiding among the sedge covered swales.",
+    "location": {
+      "description": "Butchers Gap Conservation Park is located 6km south of Kingston."
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week.",
+    "nrmRegion": [
+      "South East"
+    ],
+    "satcRegion": [
+      "Limestone Coast"
+    ],
+    "fireBanDistrict": [
+      "Lower South East"
+    ],
+    "facilities": [],
+    "experiences": [
+      "Walking Trails",
+      "Bird Watching"
+    ]
+  },
+  {
+    "name": "Canunda National Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Limestone_Coast/Canunda_National_Park",
+    "description": "Canunda National Park offers great opportunities to enjoy bushwalking, observe local birdlife, surf the waves or snorkel among the fish. The 40km coastline offers great fishing opportunities. Depending on the season and ocean conditions, mulloway, salmon, sharks or rays may tempt a bite. Try your luck off the rocks where sweep, abalone and crayfish may be caught. The northern section of the park is characterised by limestone cliffs, sea stacks, offshore reefs and low dense scrub, whereas the southern section is dominated by mobile sand dunes and stretches of beach which are backed by low foredunes. Follow the marker posts through the dunes and along Geltwood Beach by four-wheel drive.",
+    "location": {
+      "description": "Canunda National Park is located 18km north west of Millicent or 428km south east of Adelaide. Access is via Millicent, Southend or Carpenter Rocks.",
+      "latitude": -37.648286,
+      "longitude": 140.236874
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week.",
+    "nrmRegion": [
+      "South East"
+    ],
+    "satcRegion": [
+      "Limestone Coast"
+    ],
+    "fireBanDistrict": [
+      "Lower South East"
+    ],
+    "facilities": [
+      "Picnic Areas",
+      "Campfires Permitted",
+      "Toilets",
+      "Camping"
+    ],
+    "experiences": [
+      "4WD",
+      "Scuba / Snorkelling",
+      "Fishing",
+      "Walking Trails",
+      "Bird Watching"
+    ]
+  },
+  {
+    "name": "Dingley Dell Conservation Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Limestone_Coast/Dingley_Dell_Conservation_Park",
+    "description": "Dingley Dell Conservation Park is in an idyllic bush setting and is the former home of one of Australia&#39;s famous poets. The eccentric and talented Adam Lindsay Gordon lived at Dingley Dell from 1864 until 1867. It was during his stay that his first poem was published outside of a newspaper or magazine. Success continued, with the number of his published works increasing between 1865 and 1867. Take a guided tour through Dingley Dell cottage which is now a museum. Displays depict the Adam Lindsay Gordon&#39;s life and works, and the history of the cottage.",
+    "location": {
+      "description": "Dingley Dell Conservation Park is located 30km south of Mount Gambier or 407km south east of Adelaide. Access is via Port MacDonnell Road."
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week. Dingley Dell Cottage is open 10am-4pm daily (except Christmas day) and other times by appointment. Guided tours are available.",
+    "nrmRegion": [
+      "South East"
+    ],
+    "satcRegion": [
+      "Limestone Coast"
+    ],
+    "fireBanDistrict": [
+      "Lower South East"
+    ],
+    "facilities": [
+      "Picnic Areas",
+      "Toilets",
+      "Guided Tours",
+      "Disabled Toilets"
+    ],
+    "experiences": [
+      "Walking Trails"
+    ]
+  },
+  {
+    "name": "Douglas Point Conservation Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Limestone_Coast/Douglas_Point_Conservation_Park",
+    "description": "Douglas Point Conservation Park provides scenic views of the coastline and is home to a rare daisy that is only found in three other sites in Australia. This picturesque coastal park features areas of exposed limestone, sea cliffs, small sandy beaches and dense coastal vegetation; ideal for fishing, diving and bushwalking. Access the conservation park along a limestone road past the Cape Douglas shack settlement. Conventional vehicles can only access Douglas Point up to a short distance inside the entrance. From here, take a leisurely walk up the steep rocky incline and along the coast. Four-wheel drive vehicles can travel through the park following the tracks marked with orange posts.",
+    "location": {
+      "description": "Douglas Point Conservation Park is located 30km south west of Mount Gambier and 12km west of Port MacDonnell."
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week.",
+    "nrmRegion": [
+      "South East"
+    ],
+    "satcRegion": [
+      "Limestone Coast"
+    ],
+    "fireBanDistrict": [
+      "Lower South East"
+    ],
+    "facilities": [],
+    "experiences": [
+      "4WD",
+      "Fishing",
+      "Walking Trails"
+    ]
+  },
+  {
+    "name": "Ewens Ponds Conservation Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Limestone_Coast/Ewens_Ponds_Conservation_Park",
+    "description": "Ewens Ponds Conservation Park has spring-fed limestone ponds that can be discovered by snorkelling along the shallow channels or scuba diving into the ponds. The clarity of the water enables plants to grow underwater to a depth of about six metres. Some of these plants are not found growing fully submerged underwater anywhere else in the world. The channels connect three basin shaped ponds which are approximately 10 metres deep. Book a timeslot to go snorkelling in the ponds and come face to face with a variety of fish, ranging from the tiny, rare ewens pygmy perch hiding among the reeds to the freshwater crayfish scuttling along the pond&#39;s floor.",
+    "location": {
+      "description": "Ewens Ponds Conservation Park is located 36km south of Mount Gambier. Access is via Port MacDonnell Road."
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week.",
+    "nrmRegion": [
+      "South East"
+    ],
+    "satcRegion": [
+      "Limestone Coast"
+    ],
+    "fireBanDistrict": [
+      "Lower South East"
+    ],
+    "facilities": [
+      "Picnic Areas",
+      "Toilets",
+      "Disabled Toilets"
+    ],
+    "experiences": [
+      "Scuba / Snorkelling"
+    ]
+  },
+  {
+    "name": "Geegeela Conservation Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Limestone_Coast/Geegeela_Conservation_Park",
+    "description": "Geegeela Conservation Park is surrounded by blue gum and river red gum woodland. The woodland and shrubland ecosystems, that predominately make up the 858 hectare park, are threatened on both state and national levels. The park provides critical habitat for the endangered south-eastern red-tailed black cockatoo and swift parrot. The park is ideal for birdwatchers and provides habitat for more than 90 bird species. These include 17 threatened species within South Australia and 29 which have an identified conservation rating within the south east region. Look out for the vulnerable listed birdlife including the brown quail, little lorikeet, brolga, blue-winged parrot, the rare shining bronze-cuckoo, blue-faced honeyeater and flame robin.",
+    "location": {
+      "description": "Geegeela Conservation Park is located 12km north west of the township of Frances. Access into the park is by a single access track or by foot."
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week.",
+    "nrmRegion": [
+      "South East"
+    ],
+    "satcRegion": [
+      "Limestone Coast"
+    ],
+    "fireBanDistrict": [
+      "Upper South East"
+    ],
+    "facilities": [],
+    "experiences": [
+      "Bird Watching"
+    ]
+  },
+  {
+    "name": "Lake St Clair Conservation Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Limestone_Coast/Lake_St_Clair_Conservation_Park",
+    "description": "Lake St Clair Conservation Park protects the largest remaining example of intact native vegetation around the Lake St Clair wetland and lagoon, providing an important habitat for many rare and threatened native wildlife species. Go bushwalking and experience the park&#39;s diverse range of flora species including the rare creeping cotula. You may even catch a glimpse of the endangered small marsupial, the swamp antechinus. The park is also a haven for bird species and the swamp provides habitat for two bird species of national significance - the orange-bellied parrot and the hooded plover.",
+    "location": {
+      "description": "Lake St Clair Conservation Park is located 20km south east from Robe."
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week.",
+    "nrmRegion": [
+      "South East"
+    ],
+    "satcRegion": [
+      "Limestone Coast"
+    ],
+    "fireBanDistrict": [
+      "Lower South East"
+    ],
+    "facilities": [],
+    "experiences": [
+      "Walking Trails",
+      "Bird Watching"
+    ]
+  },
+  {
+    "name": "Little Dip Conservation Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Limestone_Coast/Little_Dip_Conservation_Park",
+    "description": "Little Dip Conservation Park conserves a number of small lakes ranging from the open, marshy and shallow Lake Eliza to the very salty Big Dip Lake, and the deep Fresh Water Lake. Lake Eliza was once home to the Boandik people some 10,000 years ago. Many middens (shellfish remains) left by Aboriginal people can still be seen in the park today. The area features a ruggedly beautiful coastline including a large area of coastal sand dunes. The beaches provide good opportunities for beachcombing and surf fishing. The coastal scrub that gives way to thick groves of melaleuca, dense rushes and samphire flats surrounding the lakes is a haven for birdwatchers.",
+    "location": {
+      "description": "Little Dip Conservation Park is located 341km south east of Adelaide. Access is via Alternate Highway 1.",
+      "latitude": -37.240852,
+      "longitude": 139.79845
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week.",
+    "nrmRegion": [
+      "South East"
+    ],
+    "satcRegion": [
+      "Limestone Coast"
+    ],
+    "fireBanDistrict": [
+      "Lower South East"
+    ],
+    "facilities": [
+      "Picnic Areas",
+      "Toilets",
+      "Camping",
+      "Disabled Toilets"
+    ],
+    "experiences": [
+      "4WD",
+      "Swimming",
+      "Scuba / Snorkelling",
+      "Fishing",
+      "Walking Trails",
+      "Bird Watching"
+    ]
+  },
+  {
+    "name": "Penambol Conservation Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Limestone_Coast/Penambol_Conservation_Park",
+    "description": "Penambol Conservation Park conserves an important area of remnant vegetation and contains several interesting geological features, including the Caroline Sinkhole. Excavations in the sinkholes have revealed evidence of the original inhabitants, the Aboriginal Boandik people, who were likely to have used the area for shelter. There are also several educational walking trails that provide an insight into the animals that live in the park. Follow the Wombat Walk which passes burrows that are home to the common wombat. The Butterfly Walk provides the opportunity to see and learn about some of the local butterflies such as the splendid ochre butterfly and orange species butterfly.",
+    "location": {
+      "description": "Penambol Conservation Park is located 40km south of Mount Gambier or 480km south east of Adelaide. Access is via Glenelg River Road which is may be referred to on some maps as Punt Road or Nelson Road."
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week.",
+    "nrmRegion": [
+      "South East"
+    ],
+    "satcRegion": [
+      "Limestone Coast"
+    ],
+    "fireBanDistrict": [
+      "Lower South East"
+    ],
+    "facilities": [],
+    "experiences": [
+      "Walking Trails"
+    ]
+  },
+  {
+    "name": "Penola Conservation Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Limestone_Coast/Penola_Conservation_Park",
+    "description": "Penola Conservation Park gives visitors the opportunity to discover its wetland environment, woodlands and open heaths by taking a walk along the boardwalk trail. The park&#39;s swamps (when full) provide a breeding area for numerous waterbirds such as herons, ibis and swamphens which make the park an interesting site for birdwatching. It is also a haven for orchids in spring. Along the walking trail you may also see flocks of yellow-tailed black-cockatoos or encounter a short-beaked echidna, red-necked wallaby or a western grey kangaroo.",
+    "location": {
+      "description": "Penola Conservation Park is located 13km west of Penola or 392km south east of Adelaide. Access is via Robe-Penola Road."
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week.",
+    "nrmRegion": [
+      "South East"
+    ],
+    "satcRegion": [
+      "Limestone Coast"
+    ],
+    "fireBanDistrict": [
+      "Lower South East"
+    ],
+    "facilities": [
+      "Picnic Areas"
+    ],
+    "experiences": [
+      "Walking Trails",
+      "Bird Watching"
+    ]
+  },
+  {
+    "name": "Piccaninnie Ponds Conservation Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Limestone_Coast/Piccaninnie_Ponds_Conservation_Park",
+    "description": "Piccaninnie Ponds Conservation Park can be explored by snorkelling or diving in the crystal clear waters which have been sculpting limestone over thousands of years. The freshwater rising to the surface under pressure has eroded a weakness in the limestone to form The Chasm and the large underwater cavern known as The Cathedral. Freshwater springs bubble up onto the sandy beach making it a favourite spot for birds and shellfish. There is also a walking trail through coastal wattle and beard heath to the ponds outlet. The walk leads inland via boardwalks into silky tea-tree and cutting grass to a lookout with views of the wetland, bamboo reed and bulrush.",
+    "location": {
+      "description": "Piccaninnie Ponds Conservation Park is located 32km south east of Mount Gambier or 482km south east of Adelaide. Access is via Piccaninnie Ponds Road.",
+      "latitude": -38.046503,
+      "longitude": 140.92927
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week. Bookings are required for snorkelling and diving. Book at http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Limestone_Coast/Piccaninnie_Ponds_Conservation_Park/snorkelling-and-diving",
+    "nrmRegion": [
+      "South East"
+    ],
+    "satcRegion": [
+      "Limestone Coast"
+    ],
+    "fireBanDistrict": [
+      "Lower South East"
+    ],
+    "facilities": [
+      "Toilets",
+      "Camping",
+      "Disabled Toilets"
+    ],
+    "experiences": [
+      "Scuba / Snorkelling",
+      "Walking Trails"
+    ]
+  },
+  {
+    "name": "Tantanoola Caves Conservation Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Limestone_Coast/Tantanoola_Caves_Conservation_Park",
+    "description": "Tantanoola Caves Conservation Park comprises an extraordinary display of cave decorations (speleothems) in beautiful shades of pink and brown, coloured by its dolomite base rock. The &#39;Up and Down Rocks&#39; is a special highlight. This spectacular cave, set into a cliff face, is believed to have been exposed by the constant pounding of the ocean. Upon arrival, enjoy a hosted experience as a guide introduces you to the history and geology of the caves. You are then free to stroll through the large cavern at your leisure. Above ground, take advantage of the picturesque picnic grounds and the cliff top walking trail which offers panoramic views of the surrounding district.",
+    "location": {
+      "description": "Tantanoola Caves Conservation Park is located 29km north east of Mount Gambier. Access is via the Princes Highway."
+    },
+    "openingHours": "Open 10am to 3pm daily.",
+    "nrmRegion": [
+      "South East"
+    ],
+    "satcRegion": [
+      "Limestone Coast"
+    ],
+    "fireBanDistrict": [
+      "Lower South East"
+    ],
+    "facilities": [
+      "Information Office",
+      "Picnic Areas",
+      "Toilets",
+      "Guided Tours",
+      "Disabled Toilets"
+    ],
+    "experiences": [
+      "Walking Trails"
+    ]
+  },
+  {
+    "name": "Telford Scrub Conservation Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Limestone_Coast/Telford_Scrub_Conservation_Park",
+    "description": "Telford Scrub Conservation Park gives visitors an opportunity to take a walk along the forest canopy boardwalk to experience the remaining native forest within the park. The boardwalk provides a unique bird&#39;s eye view of the forest. Interpretative signs along the walking trails highlight some of the park&#39;s features, including more than 20 species of native orchids. A small clearing among the vegetation is an ideal spot to enjoy a picnic.",
+    "location": {
+      "description": "Telford Scrub Conservation Park is located 15km north of Mount Gambier. Access is from Riddoch Highway via Grundys Lane."
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week.",
+    "nrmRegion": [
+      "South East"
+    ],
+    "satcRegion": [
+      "Limestone Coast"
+    ],
+    "fireBanDistrict": [
+      "Lower South East"
+    ],
+    "facilities": [
+      "Picnic Areas"
+    ],
+    "experiences": [
+      "Walking Trails",
+      "Bird Watching"
+    ]
+  },
+  {
+    "name": "Brookfield Conservation Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Murray_River/Brookfield_Conservation_Park",
+    "description": "Brookfield Conservation Park, home to the rare southern hairy-nosed wombat, has sections that are open to the public to explore this limestone country and enjoy opportunities to see birdlife such as the rare Stone Curlew, Ground Cuckoo Shrikes and Australian Owlet Nightjars. Brookfield is managed by Conservation Volunteers Australia (CVA) who undertake a range of volunteer activities both in the park and in the surrounding area, with a focus on the research of threatened species. All research at Brookfield Conservation Park must have prior approval from CVA. Approval must be sought at least 14 days prior to any activity. CVA requires all research results to be provided for data management.",
+    "location": {
+      "description": "Brookfield Conservation Park is located 130km north east of Adelaide, 11km west of Blanchetown. Access is via Sturt Highway.",
+      "latitude": -34.349814,
+      "longitude": 139.497271
+    },
+    "openingHours": "The public section of Brookfield Conservation Park is open from 7:00am until sunset, 7 days a week (includes the picnic area and Three Habitat Walk).",
+    "nrmRegion": [
+      "SA Murray-Darling Basin"
+    ],
+    "satcRegion": [
+      "Murray River"
+    ],
+    "fireBanDistrict": [
+      "Murraylands",
+      "Riverland"
+    ],
+    "facilities": [
+      "Picnic Areas",
+      "Toilets"
+    ],
+    "experiences": [
+      "Walking Trails",
+      "Bird Watching"
+    ]
+  },
+  {
+    "name": "Chowilla Game Reserve and Regional Reserve",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Murray_River/Chowilla_Game_Reserve_Regional_Reserve",
+    "description": "Chowilla Game Reserve and Regional Reserve can be explored along walking trails that wind through great stands of the majestic river red gum and the hardy black box. Discover the peaceful waterways of the River Murray by canoe and observe the diverse birdlife. You can walk your dog in this park providing it remains under your control on a lead. The Game Reserve is an integral part of the Bookmark Biosphere Reserve and comprises 18,000 hectares of floodplains and wetlands. The Regional Reserve features vast stands of mallee woodland, black oak and bluebush shrublands that stretch from the floodplain through to Danggali Conservation Park and Wilderness Protection Area to the north.",
+    "location": {
+      "description": "Chowilla Game Reserve is located 280km northeast of Adelaide. Access is via Murtho Road, Paringa.",
+      "latitude": -33.925699,
+      "longitude": 140.94944
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week.",
+    "nrmRegion": [
+      "SA Murray-Darling Basin"
+    ],
+    "satcRegion": [
+      "Murray River"
+    ],
+    "fireBanDistrict": [
+      "Riverland",
+      "North East Pastoral"
+    ],
+    "facilities": [
+      "Picnic Areas",
+      "Campfires Permitted",
+      "Caravan Sites",
+      "Toilets",
+      "Camping"
+    ],
+    "experiences": [
+      "Swimming",
+      "Dogs on Lead",
+      "Canoeing",
+      "Fishing",
+      "Walking Trails",
+      "Bird Watching",
+      "Boating"
+    ]
+  },
+  {
+    "name": "Danggali Conservation Park and Wilderness Protection Area",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Murray_River/Danggali_Conservation_Park_and_Wilderness_Protection_Area",
+    "description": "Danggali Conservation Park and Wilderness Protection Area is known for its vastness and wilderness appeal. The park was classified as Australia&#39;s first Biosphere Reserve in 1977 in an effort to conserve the area&#39;s dense mallee scrubland. The park provides habitat to many semi-arid land birds which offer interesting opportunities for birdwatching. You may also see red and western grey kangaroos grazing in the scrub. Explore the walking trails which feature relics of pastoral history, and enjoy the park&#39;s serenity at night in one the designated camping areas.",
+    "location": {
+      "description": "Danggali Conservation Park and Wilderness Protection Area is located 90km north of Renmark or 350km north east of Adelaide. Access is via Old Wentworth Road.",
+      "latitude": -33.385586,
+      "longitude": 140.759583
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week.",
+    "nrmRegion": [
+      "SA Murray-Darling Basin"
+    ],
+    "satcRegion": [
+      "Murray River"
+    ],
+    "fireBanDistrict": [
+      "North East Pastoral"
+    ],
+    "facilities": [
+      "Campfires Permitted",
+      "Camping"
+    ],
+    "experiences": [
+      "4WD",
+      "Walking Trails",
+      "Bird Watching"
+    ]
+  },
+  {
+    "name": "Karte Conservation Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Murray_River/Karte_Conservation_Park",
+    "description": "Karte Conservation Park comprises thick low scrub covering steep sand dunes which rise up to 40 metres. During the early twentieth century much of the surrounding land was cleared except for areas unsuitable for agriculture. Interpretive signs along the 1.5km walking trail provide an insight into the importance of the areas remaining vegetation which provides a habitat for the threatened mallee fowl. Picnic areas are located near the start of the trail and provide an opportunity to enjoy the park&#39;s vast expanse of wilderness and admire stunning views across the district. You may even encounter one of the park&#39;s residents such as the western grey kangaroos, echidnas or fat-tailed dunnarts.",
+    "location": {
+      "description": "Karte Conservation Park is located 30km north west of Pinnaroo. Access is via Pinnaroo to Loxton Road.",
+      "latitude": -35.103338,
+      "longitude": 140.709801
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week.",
+    "nrmRegion": [
+      "SA Murray-Darling Basin"
+    ],
+    "satcRegion": [
+      "Murray River"
+    ],
+    "fireBanDistrict": [
+      "Murraylands"
+    ],
+    "facilities": [
+      "Picnic Areas",
+      "Campfires Permitted",
+      "Caravan Sites",
+      "Toilets",
+      "Camping"
+    ],
+    "experiences": [
+      "Walking Trails",
+      "Bird Watching"
+    ]
+  },
+  {
+    "name": "Loch Luna and Moorook Game Reserves",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Murray_River/Loch_Luna_Moorook_Game_Reserves",
+    "description": "Loch Luna Game Reserve and the adjacent Moorook Game Reserve offer visitors the chance to explore floodplains and wetlands. The Watchels Lagoon, numerous narrow creeks and shallow swamps found in the area provide important habitats for many aquatic birds and mammals, including the colourful regent parrot. You can canoe or fish along the waterways, watch birds or simply enjoy a picnic. Learn more about the wetland environment along the Kaliwira Wetland Walk and experience the peaceful surroundings at the designated camping spots beside the river. You can take your dog for a walk on a lead in the Kaiser Strip area only on the southern side of Kingston Bridge causeway.",
+    "location": {
+      "description": "Loch Luna Game Reserve and Moorook Game Reserve are located 210km north east of Adelaide. Access is via Sturt Highway.",
+      "latitude": -34.200729,
+      "longitude": 140.394287
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week.",
+    "nrmRegion": [
+      "SA Murray-Darling Basin"
+    ],
+    "satcRegion": [
+      "Murray River"
+    ],
+    "fireBanDistrict": [
+      "Riverland"
+    ],
+    "facilities": [
+      "Picnic Areas",
+      "Campfires Permitted",
+      "BBQ Facilities",
+      "Toilets",
+      "Camping"
+    ],
+    "experiences": [
+      "Swimming",
+      "Dogs on Lead",
+      "Canoeing",
+      "Fishing",
+      "Walking Trails",
+      "Bird Watching",
+      "Boating"
+    ]
+  },
+  {
+    "name": "Maize Island Lagoon Conservation Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Murray_River/Maize_Island_Lagoon_Conservation_Park",
+    "description": "Maize Island Lagoon Conservation Park has many walking trails to follow and catch a glimpse of the park&#39;s birdlife. Surrounded by magnificent cliffs, the park features many backwater lagoons lined with tall trees which provide ideal habitats for a variety of water birds. Enjoy great birdwatching, picnicking and camping opportunities. Keep your eyes open for brightly coloured birds that fly between the river red gum hollows and the hop-bushes.",
+    "location": {
+      "description": "Maize Island Conservation Park is located 160km north east of Adelaide."
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week.",
+    "nrmRegion": [
+      "SA Murray-Darling Basin"
+    ],
+    "satcRegion": [
+      "Murray River"
+    ],
+    "fireBanDistrict": [
+      "Riverland"
+    ],
+    "facilities": [
+      "Picnic Areas"
+    ],
+    "experiences": [
+      "Swimming",
+      "Canoeing",
+      "Fishing",
+      "Walking Trails",
+      "Bird Watching",
+      "Boating"
+    ]
+  },
+  {
+    "name": "Morgan Conservation Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Murray_River/Morgan_Conservation_Park",
+    "description": "Morgan Conservation Park conserves a system of lagoons, swamps, creeks and River Murray anabranches bordered by river red gum woodlands. The park&#39;s wetlands provide excellent opportunities for canoeing and watching the numerous species of birdlife that inhabit the area. Look out for the regent parrots, pelicans and white-faced herons. The park also provides peaceful camping areas.",
+    "location": {
+      "description": "Morgan Conservation Park is located 150km north east of Adelaide. Access is either by ferry from Morgan (via Murbko Road) or via Waikerie and Cadell.",
+      "latitude": -34.038009,
+      "longitude": 139.686055
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week.",
+    "nrmRegion": [
+      "SA Murray-Darling Basin"
+    ],
+    "satcRegion": [
+      "Murray River"
+    ],
+    "fireBanDistrict": [
+      "Riverland"
+    ],
+    "facilities": [
+      "Picnic Areas",
+      "Campfires Permitted",
+      "Camping"
+    ],
+    "experiences": [
+      "Swimming",
+      "Canoeing",
+      "Fishing",
+      "Walking Trails",
+      "Bird Watching",
+      "Boating"
+    ]
+  },
+  {
+    "name": "Murray River National Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Murray_River/Murray_River_National_Park",
+    "description": "Murray River National Park covers more than 13,000 hectares and conserves the verdant Murray wetlands that flow through the park. The Katarapko area features floodplains and several wetlands. The area is an important breeding area for native wildlife, including waterbirds, and is an ideal place for birdwatching. Lyrup Flats encompasses 2,000 hectares along the floodplain on the northern side of the river and provides opportunities for birdwatching and fishing. You can take your dog for a walk in the Lyrup Flats area of the park. Bulyong Island is only accessible by boat. The island is home to a number of wildlife species; such as kangaroos, emus, pelicans, kingfishers and parrots.",
+    "location": {
+      "description": "Murray River National Park is located 180km north east of Adelaide. Access is via Sturt Highway.",
+      "latitude": -34.374187,
+      "longitude": 140.565262
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week.",
+    "nrmRegion": [
+      "SA Murray-Darling Basin"
+    ],
+    "satcRegion": [
+      "Murray River"
+    ],
+    "fireBanDistrict": [
+      "Riverland"
+    ],
+    "facilities": [
+      "Picnic Areas",
+      "Campfires Permitted",
+      "BBQ Facilities",
+      "Toilets",
+      "Camping"
+    ],
+    "experiences": [
+      "Swimming",
+      "Dogs on Lead",
+      "Canoeing",
+      "Fishing",
+      "Walking Trails",
+      "Bird Watching",
+      "Boating"
+    ]
+  },
+  {
+    "name": "Ngarkat Conservation Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Murray_River/Ngarkat_Conservation_Park",
+    "description": "Ngarkat Conservation Park offers peaceful surroundings and views over the park&#39;s 270,000 hectares of vegetated sand dunes, mallee and heath. The park abounds in wildlife. Look out for western grey kangaroo and emus and more than 120 species of birds. You may spot a rare Malleefowl walking slowly among the trees. A number of walking trails give you the opportunity to see wildlife and get a better appreciation of the vast mallee landscape. Enjoy the magnificent views from Tyms Lookout along a 2-3 hour hike. Ruins of early European pioneering settlements can be seen at Box Flat. The park is home to the legendary Border Track; a popular 4WD track.",
+    "location": {
+      "description": "Ngarkat Conservation Park is located 34km south of Pinaroo. Access is via Princes Highway. Alternatively take the Mallee Highway from Tailem Bend via Peake and Lameroo or Snozwells Road near Tintinara off the Dukes Highway.",
+      "latitude": -35.731163,
+      "longitude": 140.600303
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week.",
+    "nrmRegion": [
+      "SA Murray-Darling Basin"
+    ],
+    "satcRegion": [
+      "Murray River"
+    ],
+    "fireBanDistrict": [
+      "Murraylands"
+    ],
+    "facilities": [
+      "Picnic Areas",
+      "Campfires Permitted",
+      "Caravan Sites",
+      "Toilets",
+      "Camping"
+    ],
+    "experiences": [
+      "4WD",
+      "Walking Trails",
+      "Bird Watching"
+    ]
+  },
+  {
+    "name": "Pooginook Conservation Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Murray_River/Pooginook_Conservation_Park",
+    "description": "Pooginook Conservation Park sets the scene for Mallee scrub and orange rolling sand dunes. The park provides good opportunities for birdwatching. Keep a look out for black-eared miners, honeyeaters and many other colourful mallee birds. Enjoy the peacefulness of the park with a picnic beneath the shade of the mallee or camp overnight. The dense mallee scrub in the northern part of the park provides shelter to a range of wildlife, including kangaroos, echidnas, hairy-nosed wombats, fat-tailed dunnarts and the rare malleefowl. In contrast, the southern section features open mallee as the area was once largely used for wheat farming. Visit in spring when the mallee wildflowers burst into colour.",
+    "location": {
+      "description": "Pooginook Conservation Park is located 190km north east of Adelaide. Access is via Morgan Renmark Road.",
+      "latitude": -34.088777,
+      "longitude": 140.105553
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week.",
+    "nrmRegion": [
+      "SA Murray-Darling Basin"
+    ],
+    "satcRegion": [
+      "Murray River"
+    ],
+    "fireBanDistrict": [
+      "Riverland"
+    ],
+    "facilities": [
+      "Picnic Areas",
+      "Campfires Permitted",
+      "Camping"
+    ],
+    "experiences": [
+      "4WD",
+      "Walking Trails",
+      "Bird Watching"
+    ]
+  },
+  {
+    "name": "Sturt Gorge Recreation Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Adelaide/Sturt_Gorge_Recreation_Park",
+    "description": "Sturt Gorge Recreation Park is internationally recognised as an area of geological significance. Rock strata in the gorge was identified in 1901 as having glacial origins. This formation, known as Sturt tillite, is believed to have been formed from glacial material dropped from ice floating in the ocean that covered South Australia 800 million years ago. The park’s various walking trails among steep slopes and shrubland offers the opportunity to observe native wildlife drinking at waterholes along the Sturt River. View the oldest rocks in the park, their surrounding grasslands and open woodlands. You can walk your dog in this park providing it remains under your control on a lead.",
+    "location": {
+      "description": "Sturt Gorge Recreation Park is located 13km south of Adelaide. Bushwalkers can enter the park via steep trails from Broadmeadow Drive, Black Road and Bonneyview Road in Flagstaff Hill and The Boulevard in Bellevue Heights.",
+      "latitude": -35.038693,
+      "longitude": 138.586252
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week.",
+    "nrmRegion": [
+      "Adelaide and Mt Lofty Ranges"
+    ],
+    "satcRegion": [
+      "Adelaide"
+    ],
+    "fireBanDistrict": [
+      "Mount Lofty Ranges"
+    ],
+    "facilities": [],
+    "experiences": [
+      "Dogs on Lead",
+      "Horse Riding",
+      "Walking Trails",
+      "Cycling"
+    ]
+  },
+  {
+    "name": "Kaiserstuhl Conservation Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Barossa/Kaiserstuhl_Conservation_Park",
+    "description": "Kaiserstuhl Conservation Park is nestled amongst the Barossa Ranges and has panoramic views across to the Barossa Valley. Dusk and early mornings are the best time to be on the look out for wildlife; kangaroos feeding on the open grasslands, and the occasional echidna or possum may be seen foraging for food. There are two walking trails passing through a variety of landscapes including creeks, rocky outcrops, and areas of low forest, scrub and open grassland. The Wallowa Hike offers a comprehensive look at the park&#39;s main features, including rock formations and a scenic lookout, while the Stringybark Loop provides a brief look at the park&#39;s diverse flora and fauna.",
+    "location": {
+      "description": "Kaiserstuhl Conservation Park is located 12km south east of Tanunda in the Barossa Valley.",
+      "latitude": -34.585854,
+      "longitude": 139.013446
+    },
+    "openingHours": "The park is open from sunrise to sunset every day.",
+    "nrmRegion": [
+      "Adelaide and Mt Lofty Ranges"
+    ],
+    "satcRegion": [
+      "Barossa"
+    ],
+    "fireBanDistrict": [
+      "Mount Lofty Ranges"
+    ],
+    "facilities": [],
+    "experiences": [
+      "Walking Trails"
+    ]
+  },
+  {
+    "name": "Sandy Creek Conservation Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Barossa/Sandy_Creek_Conservation_Park",
+    "description": "Sandy Creek Conservation Park is surrounded by farmland, vineyards and deep sand mining pits. Established on gently undulating sand dunes with occasional creeks, the park conserves some of the last remaining vegetation of the sandy soil lowlands of the Barossa Valley. Spring is the best time to view the wildflowers. Several walking trails through the native pine and pink gum allow you to explore the park. Look out for wildlife such as western grey kangaroos grazing on the grasslands at dawn and dusk. The richness and diversity of the park&#39;s birdlife makes it particularly significant for naturalists and birdwatchers. However, bird populations are in decline due to the changing habitat.",
+    "location": {
+      "description": "Sandy Creek Conservation Park is located 60km north east of Adelaide. Access is via Barossa Valley Highway."
+    },
+    "openingHours": "The park is open from sunrise to sunset every day.",
+    "nrmRegion": [
+      "Adelaide and Mt Lofty Ranges"
+    ],
+    "satcRegion": [
+      "Barossa"
+    ],
+    "fireBanDistrict": [
+      "Mount Lofty Ranges"
+    ],
+    "facilities": [],
+    "experiences": [
+      "Walking Trails",
+      "Bird Watching"
+    ]
+  },
+  {
+    "name": "Warren Conservation Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Adelaide_Hills/Warren_Conservation_Park",
+    "description": "Warren Conservation Park is characterised by steep country with views over forests, reservoirs, pastures and bushland above the spectacular Warren Gorge. The park is most colourful in spring when wattles, banksias, hakeas, heaths and eucalypts are in flower, but its native fauna and wild forests of stringybarks and long-leafed box are always worth a visit. The park has four challenging walking trails, including a section of the long distance and world famous Heysen Trail. The tracks are steep and difficult and should be used by experienced bushwalkers only. The relatively untouched nature is a haven for some of Australia&#39;s rarest animals and provides ideal opportunities for naturalists, birdwatchers and photographers.",
+    "location": {
+      "description": "Warren Conservation Park is located 60km north east of Adelaide. Walkers can access the park from Hale Conservation Park or from the Tower Track in Mt Crawford Forest."
+    },
+    "openingHours": "The park is open from sunrise to sunset every day.",
+    "nrmRegion": [
+      "Adelaide and Mt Lofty Ranges"
+    ],
+    "satcRegion": [
+      "Adelaide Hills"
+    ],
+    "fireBanDistrict": [
+      "Mount Lofty Ranges"
+    ],
+    "facilities": [],
+    "experiences": [
+      "Walking Trails",
+      "Bird Watching"
+    ]
+  },
+  {
+    "name": "Innes National Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Yorke_Peninsula/Innes_National_Park",
+    "description": "Innes National Park offers opportunities to enjoy camping, bushwalking, fishing and surfing. Discover the park&#39;s mining and maritime history by exploring the remnants of Inneston, once a booming gypsum-mining town, or go diving among the shipwrecks that lay off the coast of the park. You can even stay overnight in one of the restored miners cottages in the historic Inneston village. Purchase entry and camping permits from a self-registration station when you first enter the park. These are located adjacent to the park visitor centre, Innes Trading Post and Gym Beach Campground. To find out more information and to book accommodation at Inneston contact the Innes National Park Visitor Centre.",
+    "location": {
+      "description": "Innes National Park is located 300km west from Adelaide.",
+      "latitude": -35.248563,
+      "longitude": 136.882267
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week.",
+    "nrmRegion": [
+      "Northern and Yorke"
+    ],
+    "satcRegion": [
+      "Yorke Peninsula"
+    ],
+    "fireBanDistrict": [
+      "Yorke Peninsula"
+    ],
+    "facilities": [
+      "Information Office",
+      "Accomm",
+      "Picnic Areas",
+      "Campfires Permitted",
+      "Caravan Sites",
+      "BBQ Facilities",
+      "Toilets",
+      "Camping",
+      "Disabled Toilets"
+    ],
+    "experiences": [
+      "Swimming",
+      "Scuba / Snorkelling",
+      "Canoeing",
+      "Fishing",
+      "Walking Trails",
+      "Bird Watching",
+      "Boating"
+    ]
+  },
+  {
+    "name": "Troubridge Island",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Yorke_Peninsula/Troubridge_Island",
+    "description": "Troubridge Island Conservation Park is ideal for birdwatching. This fragile sand island is an important breeding area for birds and is home to a large colony of little penguins, black-faced cormorants and crested terns. Only accessible by boat, once you&#39;ve reached the island, take in its beauty by fishing or swimming along the white sandy beaches. Hide away for a few nights in the original lighthouse keeper&#39;s cottage. The heritage-listed cottage accommodation has all the modern conveniences you need for an idyllic escape from city life. As the island protects nesting seabirds, the park is a prohibited area and is only accessible with a permit or with a guided tour.",
+    "location": {
+      "description": "Troubridge Island Conservation Park is located 63km west of Adelaide off the coast of Edithburgh. The island is only accessible by boat."
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week.",
+    "nrmRegion": [
+      "Northern and Yorke"
+    ],
+    "satcRegion": [
+      "Yorke Peninsula"
+    ],
+    "fireBanDistrict": [
+      "None"
+    ],
+    "facilities": [
+      "Accomm",
+      "Guided Tours"
+    ],
+    "experiences": [
+      "Swimming",
+      "Fishing",
+      "Walking Trails",
+      "Bird Watching",
+      "Boating"
+    ]
+  },
+  {
+    "name": "Lashmar Conservation Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Kangaroo_Island/Lashmar",
+    "description": "Lashmar Conservation Park, a favourite for beach lovers, adjoins the long sandy beach at Antechamber Bay. The park is an ideal location for swimming, fishing and birdwatching and is just a short drive from Cape Willoughby lightstation. Explore the park further by canoeing your way along the tranquil Chapman River which flows through the park and into the sea at Antechamber Bay. A scenic picnic area and campground are also available within the park.",
+    "location": {
+      "description": "Lashmar Conservation Park is located 40km south east of Penneshaw. Access is via Hog Bay Road.",
+      "latitude": -35.784201,
+      "longitude": 138.066806
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week.",
+    "nrmRegion": [
+      "Kangaroo Island"
+    ],
+    "satcRegion": [
+      "Kangaroo Island"
+    ],
+    "fireBanDistrict": [
+      "Kangaroo Island"
+    ],
+    "facilities": [
+      "Picnic Areas",
+      "BBQ Facilities",
+      "Toilets",
+      "Camping",
+      "Disabled Toilets"
+    ],
+    "experiences": [
+      "Swimming",
+      "Canoeing",
+      "Fishing",
+      "Bird Watching"
+    ]
+  },
+  {
+    "name": "Padthaway",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Limestone_Coast/Padthaway",
+    "description": "Padthaway Conservation Park is ideal for birdwatchers. The park conserves a remnant block of native vegetation, which is dominated by South Australian blue gum, manna gum and stringybarks, making it a haven for native birdlife. Stroll along the walking trails, keep an eye out for orchids and marvel at the sights and sounds of birdlife or enjoy a picnic beneath the shade of the gums trees. You may even spot a koala enjoying its own picnic among the eucalypt branches.",
+    "location": {
+      "description": "Padthaway Conservation Park is located 254km south east of Adelaide off Riddoch Highway.",
+      "latitude": -36.589534,
+      "longitude": 140.529041
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week.",
+    "nrmRegion": [
+      "South East"
+    ],
+    "satcRegion": [
+      "Limestone Coast"
+    ],
+    "fireBanDistrict": [
+      "Upper South East"
+    ],
+    "facilities": [
+      "Picnic Areas"
+    ],
+    "experiences": [
+      "Walking Trails"
+    ]
+  },
+  {
+    "name": "Coffin Bay National Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Eyre_Peninsula/Coffin_Bay_National_Park",
+    "description": "Coffin Bay National Park conserves a diverse coastal landscapes ranging from high windswept cliffs and massive dunes to pounding surf beaches and sheltered sandy bays. At the southern end of the park, Yangie Bay offers an ideal place to paddle your canoe, enjoy a bush picnic or explore a coastal bushwalking trail and is 2WD accessible. The bays and coastline around the park are also great for boating, sailing, scuba diving and windsurfing. The stunning northern beaches of Coffin Bay National Park are only accessible by high-clearance 4WD. A favourite destination for anglers, birdwatchers and surfers, this remote and beautiful area offers several secluded camping areas with easy beach access.",
+    "location": {
+      "description": "Coffin Bay National Park is located 50km west of Port Lincoln. Access from Flinders Highway is via Coffin Bay Road.",
+      "latitude": -34.6719,
+      "longitude": 135.432587
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week.",
+    "nrmRegion": [
+      "Eyre Peninsula"
+    ],
+    "satcRegion": [
+      "Eyre Peninsula"
+    ],
+    "fireBanDistrict": [
+      "Lower Eyre Peninsula"
+    ],
+    "facilities": [
+      "Picnic Areas",
+      "Campfires Permitted",
+      "Caravan Sites",
+      "Toilets",
+      "Camping"
+    ],
+    "experiences": [
+      "4WD",
+      "Swimming",
+      "Scuba / Snorkelling",
+      "Canoeing",
+      "Fishing",
+      "Walking Trails",
+      "Bird Watching",
+      "Boating"
+    ]
+  },
+  {
+    "name": "Mokota Conservation Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Clare_Valley/Mokota_Conservation_Park",
+    "description": "Mokota Conservation Park plays an important role in protecting native grassland and is one of the best, and largest, remaining examples of open tussock grassland in South Australia. Interpretive signs give you an insight into the unusually high quality grassland as you take a walk through the park’s trails. Mokota has 150 flora species surrounding it; some of the species are of conservation significance. The park also provides habitat for 28 animal species. The rare white spotted skipper butterfly is of particular interest and is listed as vulnerable. The park also provides habitat for the flinders worm lizard whose conservation status is listed as vulnerable at national and state levels.",
+    "location": {
+      "description": "Mokota Conservation Park is located 5km east of Mount Bryan (township) in the Clare Valley region."
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week.",
+    "nrmRegion": [
+      "SA Murray-Darling Basin"
+    ],
+    "satcRegion": [
+      "Clare Valley"
+    ],
+    "fireBanDistrict": [
+      "Mid North"
+    ],
+    "facilities": [],
+    "experiences": [
+      "Walking Trails"
+    ]
+  },
+  {
+    "name": "Calpatanna Waterhole Conservation Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Eyre_Peninsula/Calpatanna_Waterhole_Conservation_Park",
+    "description": "Calpatanna Waterhole Conservation Park features a large salt lake and numerous saline flats where nearby swamp paperbarks can be found. Named after the Calpatanna waterhole which was an important water source for the traditional Aboriginal people of the area and early settlers, the park provides opportunities for bushwalking, nature study and camping. The 3,644 hectare park offers a diverse variety of habitats, ideal for native wildlife. A quiet walk through the bushland may reveal sightings of Mulga or Port Lincoln Parrots which often feed on the ground or move to nearby mallee trees when disturbed.",
+    "location": {
+      "description": "Calpatanna Waterhole Conservation Park is located 28km south east of Streaky Bay. Access is via Flinders Highway.",
+      "latitude": -32.994757,
+      "longitude": 134.344635
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week.",
+    "nrmRegion": [
+      "Eyre Peninsula"
+    ],
+    "satcRegion": [
+      "Eyre Peninsula"
+    ],
+    "fireBanDistrict": [
+      "West Coast"
+    ],
+    "facilities": [
+      "Camping"
+    ],
+    "experiences": [
+      "Walking Trails"
+    ]
+  },
+  {
+    "name": "Mylor Conservation Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Adelaide_Hills/Mylor_Conservation_Park",
+    "description": "Mylor Conservation Park and much of the region surrounding it has been largely cleared for residential and agricultural purposes. The park forms part of a mosaic of remnant bushland areas in the district which are linked by vegetation corridors on both public and private land. The park is used for a number of outdoor recreational activities, such as bushwalking or horse riding through the open woodland. Numerous bird species inhabit the area, making bird watching a popular activity for visitors. Keep an eye out for western grey kangaroos or eastern brown snakes that are often seen in the area. A section of the Heysen Trail runs through the park also.",
+    "location": {
+      "description": "Mylor Conservation Park is located in the Southern Mount Lofty Ranges, 15km south east of Adelaide."
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week.",
+    "nrmRegion": [
+      "Adelaide and Mt Lofty Ranges"
+    ],
+    "satcRegion": [
+      "Adelaide Hills"
+    ],
+    "fireBanDistrict": [
+      "Mount Lofty Ranges"
+    ],
+    "facilities": [],
+    "experiences": [
+      "Walking Trails"
+    ]
+  },
+  {
+    "name": "Telowie Gorge Conservation Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Flinders_Ranges_and_Outback/Telowie_Gorge_Conservation_Park",
+    "description": "Telowie Gorge Conservation Park is home to a colony of yellow-footed rock-wallabies and features some of the most dramatic scenery in the Southern Flinders Ranges. Animal watching, bushwalking and camping are popular ways to enjoy the park&#39;s wilderness setting. The gorge and its diverse landforms have been created by Telowie Creek, which over time has cut a deep gorge through the range. Today, the gorge creates a rich variety of habitats for animals and plants from both the southern temperate and arid regions. During winter, Telowie Creek flows from the gorge onto the plains.",
+    "location": {
+      "description": "Telowie Gorge Conservation Park is located 25km north east of Port Pirie (45 min); 248km north of Adelaide. Access is via Highway 1.",
+      "latitude": -33.033996,
+      "longitude": 138.130074
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week.",
+    "nrmRegion": [
+      "Northern and Yorke"
+    ],
+    "satcRegion": [
+      "Flinders Ranges & Outback"
+    ],
+    "fireBanDistrict": [
+      "Flinders"
+    ],
+    "facilities": [
+      "Camping"
+    ],
+    "experiences": [
+      "Walking Trails"
+    ]
+  },
+  {
+    "name": "Cleland Wildlife Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Adelaide_Hills/Cleland_Wildlife_Park",
+    "description": "Cleland Wildlife Park, just twenty minutes drive from the Adelaide city centre is where you can meet some of South Australia&#39;s most iconic inhabitants and cuddle a koala! Wander at your leisure among kangaroos, wallabies, emus and waterfowl. Many of the animals in the park are free to roam the open spaces. The animals are accustomed to people, meaning you can pat and feed them. The park has been a major tourist attraction in South Australia since 1967. Nestled within the natural bush setting of Cleland Conservation Park and adjacent to Mount Lofty Summit, the park provides 35 hectares of open bushland habitat where visitors can interact with Australian wildlife.",
+    "location": {
+      "description": "Cleland Wildlife Park is only 20 minutes from the Adelaide city centre. Just take the South Eastern Freeway to the Crafers exit, then follow Summit Road to the Cleland turn off."
+    },
+    "openingHours": "9.30am - 5pm daily (except Christmas Day). No entry after 4.30pm. Aviaries close at 4.30pm.",
+    "nrmRegion": [
+      "Adelaide and Mt Lofty Ranges"
+    ],
+    "satcRegion": [
+      "Adelaide Hills"
+    ],
+    "fireBanDistrict": [
+      "Mount Lofty Ranges"
+    ],
+    "facilities": [
+      "Information Office",
+      "Picnic Areas",
+      "Kiosk",
+      "BBQ Facilities",
+      "Toilets",
+      "Guided Tours",
+      "Public Transport",
+      "Disabled Toilets"
+    ],
+    "experiences": []
+  },
+  {
+    "name": "Naracoorte Caves National Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Limestone_Coast/Naracoorte_Caves",
+    "description": "Naracoorte Caves National Park is South Australia&#39;s only World Heritage site. The site was officially recognised in 1994 because of the importance of the fossils in the caves. The park is home to over 100 known fossil deposits, preserving the bones of megafauna that became extinct roughly 60,000 years ago. Naracoorte Caves preserves Australia&#39;s most complete fossil record for the past 500,000 years. The World Heritage trail is a popular 1.3 kilometre track that stretches from the Wonambi Fossil Centre to the Victoria Fossil Cave. The walk features informative milestones that highlight the World Heritage features of the park, making it popular with those interested in the park&#39;s ancient history.",
+    "location": {
+      "description": "Naracoorte Caves National Park is located on Hynam-Caves Road, 10km south of the main township of Naracoorte."
+    },
+    "openingHours": "9:00am - 5:00pm",
+    "nrmRegion": [
+      "South East"
+    ],
+    "satcRegion": [
+      "Limestone Coast"
+    ],
+    "fireBanDistrict": [
+      "Lower South East"
+    ],
+    "facilities": [
+      "Information Office",
+      "Showers",
+      "Accomm",
+      "Picnic Areas",
+      "Kiosk",
+      "Campfires Permitted",
+      "Caravan Sites",
+      "BBQ Facilities",
+      "Toilets",
+      "Guided Tours",
+      "Camping",
+      "Disabled Toilets"
+    ],
+    "experiences": [
+      "Walking Trails"
+    ]
+  },
+  {
+    "name": "Seal Bay Conservation Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Kangaroo_Island/Seal_Bay",
+    "description": "Seal Bay Conservation Park is a major tourist destination welcoming around 110,000 visitors a year. We provide guided tours along Seal Bay beach where you can walk amongst the resident colony of Australian sea lions. Or you can choose to walk the boardwalk to view the sea lions from afar. As well as tours, there are picnic and barbecue areas at the Bales Bay Picnic Area. There is a short walk from the picnic grounds to a lookout which offers excellent views of Cape Gantheaume and the wilderness area. A short drive takes you to beautiful Bales Beach; an opportunity to relax and enjoy the surrounds in an unspoilt location.",
+    "location": {
+      "description": "Seal Bay is on Seal Bay Road, just off South Coast Road on Kangaroo Island.",
+      "latitude": -35.992384,
+      "longitude": 137.319033
+    },
+    "openingHours": "9am - 5pm daily (except Christmas Day). 9am - 6pm in Dec and Jan.",
+    "nrmRegion": [
+      "Kangaroo Island"
+    ],
+    "satcRegion": [
+      "Kangaroo Island"
+    ],
+    "fireBanDistrict": [
+      "Kangaroo Island"
+    ],
+    "facilities": [
+      "Information Office",
+      "Picnic Areas",
+      "BBQ Facilities",
+      "Toilets",
+      "Guided Tours",
+      "Disabled Toilets"
+    ],
+    "experiences": [
+      "Walking Trails"
+    ]
+  },
+  {
+    "name": "Ngaut Ngaut Conservation Park ",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Murray_River/Ngaut_Ngaut_Conservation_Park",
+    "description": "Book a tour and explore this culturally and historically significant conservation park with an experienced guide from the Mannum Aboriginal Community Association. ",
+    "location": {
+      "description": "Ngaut Ngaut Conservation Park is located along the west side of the River Murray approximately 12 kms south of Swan Reach and close to the Nildottie Township. It is approximately 170km north of Adelaide. You can access the park by either the Walker Flat-Mannum Road or the Swan Reach-Walker Flat Road, via Hunter Road and Purnong Road. Both require crossing via a ferry if you are coming from the Mannum side of the River.",
+      "latitude": -34.6883,
+      "longitude": 139.6069
+    },
+    "openingHours": "In recognition of the cultural significance of this park we request that you contact the Mannum Aboriginal Community Association prior to planning a visit to the park.",
+    "nrmRegion": [
+      "SA Murray-Darling Basin"
+    ],
+    "satcRegion": [
+      "Murray River"
+    ],
+    "fireBanDistrict": [
+      "Murraylands"
+    ],
+    "facilities": [
+      "Guided Tours"
+    ],
+    "experiences": []
+  },
+  {
+    "name": "Cobbler Creek Recreation Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Adelaide/Cobbler_Creek_Recreation_Park",
+    "description": "Cobbler Creek Recreation Park is surrounded by woodlands and open grasslands; here you can discover the ruins of the area&#39;s first European farms. There are also two walking trails to choose from: the 6.8km Porosa Walkabout Loop walk where you can visit several natural and cultural sites the Babbler Loop Trail, a shorter walk which climbs to a stunning view across the Adelaide plains. As you walk through the park, watch out for birds of prey such as the Australian kestrel, Red-rumped parrots, crested pigeons, red wattlebirds and lorikeets. You can walk your dog in this park along designated walking trails, provided it remains under your control on a lead.",
+    "location": {
+      "description": "Cobbler Creek Recreation Park is located 19km north of Adelaide. Access is via Bridge Road, The Grove Way and Green Valley Drive.",
+      "latitude": -34.778968,
+      "longitude": 138.690455
+    },
+    "openingHours": "The park is open from sunrise to sunset every day.",
+    "nrmRegion": [
+      "Adelaide and Mt Lofty Ranges"
+    ],
+    "satcRegion": [
+      "Adelaide"
+    ],
+    "fireBanDistrict": [
+      "Adelaide Metropolitan"
+    ],
+    "facilities": [
+      "Picnic Areas"
+    ],
+    "experiences": [
+      "Dogs on Lead",
+      "Walking Trails",
+      "Bird Watching",
+      "Cycling"
+    ]
+  },
+  {
+    "name": "Anstey Hill Recreation Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Adelaide/Anstey_Hill_Recreation_Park",
+    "description": "Anstey Hill Recreation Park provides an insight into the area&#39;s history and conserves rare vegetation once widespread throughout the Adelaide Plains and Mount Lofty Ranges. Be sure to visit in spring when the wildflowers and orchids are in bloom over the steep slopes. You can walk your dog in this park provided it remains under your control on a lead. The park&#39;s steep gullies, creek lines and views of Adelaide city provide a spectacular backdrop for bushwalkers, birdwatchers, photographers and painters to enjoy. There are also 145 species of native birds to look out for. The extensive network of walking trails showcase the park&#39;s variety of plant species and habitats.",
+    "location": {
+      "description": "Anstey Hill Recreation Park is located 16km north east of Adelaide. Access is via Perseverance Road.",
+      "latitude": -34.824723,
+      "longitude": 138.737882
+    },
+    "openingHours": "The park is open from sunrise to sunset every day.",
+    "nrmRegion": [
+      "Adelaide and Mt Lofty Ranges"
+    ],
+    "satcRegion": [
+      "Adelaide"
+    ],
+    "fireBanDistrict": [
+      "Mount Lofty Ranges"
+    ],
+    "facilities": [],
+    "experiences": [
+      "Dogs on Lead",
+      "Walking Trails",
+      "Bird Watching"
+    ]
+  },
+  {
+    "name": "Angove Conservation Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Adelaide_Hills/Angove_Conservation_Park",
+    "description": "Angove Conservation Park conserves one of the last remaining stands of remnant Drooping Sheoak and Southern Cypress Pine open woodlands within the Adelaide foothills. The park contains 142 native plant species and provides specialised habitat for a small number of animals that require dense vegetation to survive. Several species of reptiles can also be found, along with mammals such as ringtail and brush-tailed possums, bats and 74 species of birds. The park has a dedicated Friends of Parks volunteer group who contribute to the management of the park by maintaining walking trails and fire breaks, conducting weed control projects and educating the public about the park.",
+    "location": {
+      "description": "Angove Conservation Park is located 18km north east from Adelaide. Access is via Bowen Road.",
+      "latitude": -34.824723,
+      "longitude": 138.723422
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week.",
+    "nrmRegion": [
+      "Adelaide and Mt Lofty Ranges"
+    ],
+    "satcRegion": [
+      "Adelaide Hills"
+    ],
+    "fireBanDistrict": [
+      "Mount Lofty Ranges"
+    ],
+    "facilities": [],
+    "experiences": [
+      "Walking Trails"
+    ]
+  },
+  {
+    "name": "Coorong National Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Limestone_Coast/Coorong_National_Park",
+    "description": "Coorong National Park protects a string of saltwater lagoons and the wetlands are of enormous cultural significance to the Ngarrindjeri people, with ancient mounds of discarded shells revealing archaeological evidence of Aboriginal campsites over thousands of years. The distinctive landscape is an important breeding area for the Australian pelican and is a refuge for numerous species of migratory birds. The park can be explored by the various walking trails, paddling along waterways by kayak, or four-wheel driving along designated tracks and the beach. The diverse number of birds that visit the area also provides ideal birdwatching and photographic opportunities. Scenic campgrounds are located on both sides of the lagoon.",
+    "location": {
+      "description": "The Coorong National Park is located south east of Adelaide. The southern part of the park is accessible via Goolwa, Meningie and Salt Creek off Highway 1. If you are arriving from the south, enter the park via Kingston.",
+      "latitude": -35.952581,
+      "longitude": 139.457016
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week.",
+    "nrmRegion": [
+      "SA Murray-Darling Basin",
+      "South East"
+    ],
+    "satcRegion": [
+      "Limestone Coast"
+    ],
+    "fireBanDistrict": [
+      "Mount Lofty Ranges",
+      "Upper South East",
+      "Lower South East"
+    ],
+    "facilities": [
+      "Information Office",
+      "Picnic Areas",
+      "Caravan Sites",
+      "Toilets",
+      "Camping",
+      "Disabled Toilets"
+    ],
+    "experiences": [
+      "4WD",
+      "Swimming",
+      "Canoeing",
+      "Fishing",
+      "Walking Trails",
+      "Bird Watching",
+      "Boating"
+    ]
+  },
+  {
+    "name": "Martindale Hall Conservation Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Clare_Valley/Martindale_Hall_Conservation_Park",
+    "description": "Martindale Hall Conservation Park offers a fascinating insight into the lives of South Australia&#39;s wealthy gentry during the late 1800s to early 1900s.",
+    "location": {
+      "description": "Martindale Hall Conservation Park is located 130km north of Adelaide in the Clare Valley region. Access is via Main North Road.",
+      "latitude": -33.932821,
+      "longitude": 138.734837
+    },
+    "openingHours": "Martindale Hall is open from 11am to 4pm Wednesday to Monday, closed Tuesday for cleaning. During school holidays, Martindale Hall is open 7 days from 11am to 4pm, except Good Friday and Christmas Day.",
+    "nrmRegion": [
+      "Northern and Yorke"
+    ],
+    "satcRegion": [
+      "Clare Valley"
+    ],
+    "fireBanDistrict": [
+      "Mid North"
+    ],
+    "facilities": [
+      "Picnic Areas",
+      "Toilets",
+      "Guided Tours"
+    ],
+    "experiences": [
+      "Walking Trails"
+    ]
+  },
+  {
+    "name": "Kyeema Conservation Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Fleurieu_Peninsula/Kyeema_Conservation_Park",
+    "description": "Kyeema Conservation Park was once mined for alluvial gold for several years until it was abandoned in 1890. A few years later some of the area was cleared for pine plantations before being used as a labour prison reserve. Since the 1983 Ash Wednesday fires, the Friends of Kyeema Conservation Park have been revegetating cleared areas of the park. Today, Kyeema Conservation Park&#39;s native vegetation can be enjoyed along a number of walking trails, including the Heysen Trail which runs through the park. The combination of messmate stringybark, pink gum, cup gum and candlebark gum provide habitat for a diverse range of wildlife and more than 70 species of birds.",
+    "location": {
+      "description": "Kyeema Conservation Park is located 60km south of Adelaide. Access is via Woodgate Hill Road.",
+      "latitude": -35.266224,
+      "longitude": 138.68206
+    },
+    "openingHours": "Open 24 hours a day, 7 days a week.",
+    "nrmRegion": [
+      "SA Murray-Darling Basin"
+    ],
+    "satcRegion": [
+      "Fleurieu Peninsula"
+    ],
+    "fireBanDistrict": [
+      "Mount Lofty Ranges"
+    ],
+    "facilities": [],
+    "experiences": [
+      "Walking Trails",
+      "Bird Watching"
+    ]
+  },
+  {
+    "name": "Kelly Hill Conservation Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Kangaroo_Island/Kelly_Hill",
+    "description": "Kelly Hill Conservation Park, located in the south-west of Kangaroo Island, has an impressive limestone cave system to explore. Guided tours allow you to walk amidst ornate cave formations, admire the array of stalactite, stalagmite, shawl, helictite and column formations and discover how the caves are formed. For the more adventurous, join an experienced guide on an Adventure Caving Tour where, equipped with a helmet and headlamp, you can crawl your way through an underground maze of smaller caverns. Above ground, choose from one of the short walking trails or spend a day hiking to Hanson Bay which passes by a landscape of freshwater lagoons, mallee woodlands and coastal dunes.",
+    "location": {
+      "description": "Kelly Hill Conservation Park is located 90km south west of Kingscote. Access via South Coast Road.",
+      "latitude": -35.997174,
+      "longitude": 136.93119
+    },
+    "openingHours": "Day visitors to Kelly Hill Conservation Park are requested to leave the park by sunset. Kelly Hill Caves Visitor Centre is open 10.15am-4.30pm daily (except Christmas Day. Find information on tour times for Kelly Hill Caves on http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Kangaroo_Island/Kelly_Hill/tour-times",
+    "nrmRegion": [
+      "Kangaroo Island"
+    ],
+    "satcRegion": [
+      "Kangaroo Island"
+    ],
+    "fireBanDistrict": [
+      "Kangaroo Island"
+    ],
+    "facilities": [
+      "Information Office",
+      "Picnic Areas",
+      "Kiosk",
+      "BBQ Facilities",
+      "Toilets",
+      "Guided Tours"
+    ],
+    "experiences": [
+      "Walking Trails",
+      "Bird Watching"
+    ]
+  },
+  {
+    "name": "Cape Willoughby Conservation Park",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Kangaroo_Island/Cape_Willoughby",
+    "description": "Cape Willoughby Conservation Park is home to South Australia&#39;s first lighthouse. To discover more about the areas role in coastal shipping, colonial trading and passenger transport, you can: join a guided tour and enjoy spectacular views across Backstairs Passage while looking out for large schools of salmon or pods of whales; gain an insight into the working and living conditions of the early lightkeepers along the Cape Willoughby Lightstation heritage hike; visit the Cape Willoughby park visitor centre which features a museum with a photograph collection, as well as equipment that was once used at the site; stay in one of the delightful heritage-listed lightkeepers cottages, see http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Kangaroo_Island/Cape_Willoughby/Accommodation",
+    "location": {
+      "description": "Cape Willoughby Conservation Park is located 27km south east of Penneshaw. Access is via Cape Willoughby Road.",
+      "latitude": -35.842557,
+      "longitude": 138.132181
+    },
+    "openingHours": "Open 7 days a week. Cape Willoughby Conservation Park Visitor Centre is open 9am-3.30pm daily (except Christmas Day). Daily tour times: 11.30am, 12.30pm and 2.00pm.",
+    "nrmRegion": [
+      "Kangaroo Island"
+    ],
+    "satcRegion": [
+      "Kangaroo Island"
+    ],
+    "fireBanDistrict": [
+      "Kangaroo Island"
+    ],
+    "facilities": [
+      "Information Office",
+      "Accomm",
+      "Kiosk",
+      "Toilets",
+      "Guided Tours",
+      "Disabled Toilets"
+    ],
+    "experiences": [
+      "Walking Trails",
+      "Bird Watching"
+    ]
+  },
+  {
+    "name": "Cape Borda Lightstation",
+    "link": "http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Kangaroo_Island/Cape_Borda_Lightstation",
+    "description": "Cape Borda Lightstation is perched on cliffs overlooking Investigator Strait.",
+    "location": {
+      "description": "Cape Borda Lighstation is located in Flinders Chase National Park 110km west of Kingscote, Kangaroo Island.",
+      "latitude": -35.753771,
+      "longitude": 136.593736
+    },
+    "openingHours": "Day visitors to Flinders Chase National Park are requested to leave the park by sunset. The Flinders Chase Visitor Centre is open 9am-5pm daily (except Christmas Day). Daily tour times: 11.00, 12.30 pm and 2.00pm.",
+    "nrmRegion": [
+      "Kangaroo Island"
+    ],
+    "satcRegion": [
+      "Kangaroo Island"
+    ],
+    "fireBanDistrict": [
+      "Kangaroo Island"
+    ],
+    "facilities": [
+      "Information Office",
+      "Accomm",
+      "Picnic Areas",
+      "Kiosk",
+      "BBQ Facilities",
+      "Toilets",
+      "Guided Tours",
+      "Camping",
+      "Disabled Toilets"
+    ],
+    "experiences": [
+      "Walking Trails",
+      "Bird Watching"
+    ]
+  }
+]

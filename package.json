@@ -1,0 +1,38 @@
+{
+  "name": "sa-parks",
+  "version": "0.0.0-development",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "commit": "git-cz",
+    "test": "mocha test",
+    "test:watch": "mocha test -w",
+    "semantic-release": "semantic-release pre && npm publish && semantic-release post"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/emilkloeden/sa-parks.git"
+  },
+  "keywords": [
+    "parks"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emilkloeden/sa-parks/issues"
+  },
+  "homepage": "https://github.com/emilkloeden/sa-parks#readme",
+  "dependencies": {
+    "unique-random-array": "^1.0.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "commitizen": "^2.9.5",
+    "cz-conventional-changelog": "^1.2.0",
+    "mocha": "^3.2.0",
+    "semantic-release": "^6.3.2"
+  },
+  "czConfig": {
+    "path": "node_modules/cz-conventional-changelog"
+  }
+}
