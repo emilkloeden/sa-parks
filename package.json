@@ -1,8 +1,8 @@
 {
   "name": "sa-parks",
   "version": "0.0.0-development",
-  "description": "",
-  "main": "src/index.js",
+  "description": "south australian parks - features and facilities",
+  "main": "dist/index.js",
   "scripts": {
     "prebuild": "rimraf dist",
     "cover": "nyc npm t",
