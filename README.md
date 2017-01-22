@@ -21,7 +21,16 @@ To use in a browser add the following to your ```<head>``` tag
 In node:
 ```javascript
 import parks from ('sa-parks')
+```
 
+On the web:
+```javascript
+const parks = window.parks
+```
+
+#### all property
+Contains all info on every park.
+```
 console.log(parks.all)
 /*
 [
@@ -54,19 +63,31 @@ console.log(parks.all)
 
 ...
 ]
-
-*/
-
 ```
 
-On the web:
+#### names property
+Returns a list of every park's name
 ```javascript
-const allParks = window.parks.all
-console.log(allParks)
-
+console.log(parks.names)
+/*
+    [
+        "Morialta Conservation Park",
+        ...
+    ]
+*/
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
+#### random method
+Returns one park at random.
+```javascript
+console.log(parks.random())
+/*
+    [
+        "Morialta Conservation Park",
+        ...
+    ]
+*/
+```
 
 
 ## Contributing
