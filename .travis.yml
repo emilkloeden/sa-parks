@@ -13,7 +13,7 @@ script:
   - npm run check-coverage
 after_success:
   - npm run semantic-release
-  - npm report-coverage
+  - npm run report-coverage
 branches:
   only:
     - master
